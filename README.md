@@ -20,3 +20,7 @@ https://www.linkedin.com/company/inrebus-s.r.l./mycompany/
 
 # Posizioni aperte
 - [Sviluppatore/Sviluppatrice PHP](https://zinrec.intervieweb.it/gruppofos/jobs/sviluppatoresviluppatrice-moodle-22276/it/)
+- [React Senior developer](https://it.indeed.com/job/react-senior-developer-4e0b2555c740c259)
+- [Angular Senior developer](https://it.indeed.com/job/angular-senior-developer-f9ca3dffe1bdd0d3)
+- [Software architect](https://it.indeed.com/job/architetto-software-ambito-gis-45264312e289b050)
+- [Data Analyst](https://it.indeed.com/job/data-analyst-gis-support-d5f6a0ae1db3a828)
