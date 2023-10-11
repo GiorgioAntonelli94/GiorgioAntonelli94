@@ -12,9 +12,12 @@ Rapidamente, quella che era una scommessa, si è trasformata in un gruppo di lav
  
 Nel dicembre 2020 inRebus Technologies è entrata a far parte di FOS S.p.A., PMI genovese di consulenza e ricerca tecnologica, quotata al segmento Euronext Growth Milan di Borsa Italiana S.p.A., attiva nella progettazione e nello sviluppo di servizi e prodotti digitali per grandi gruppi industriali e per la pubblica amministrazione. 
 
-# Send your cv
-hrm@inrebus.it
-
-
 # Follow on:
 https://www.linkedin.com/company/inrebus-s.r.l./mycompany/
+
+# Lavora con noi
+[![Email](https://img.shields.io/badge/hrm@inrebus.it-ffa500.svg?style=for-the-badge&logo=gmail&logoColor=black)](hrm@inrebus.it)
+
+# Posizioni aperte
+- [Sviluppatore/Sviluppatrice PHP](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-sviluppatrice-php-torino_152316.aspx)
+- [Specialista Container e Microservizi](https://www.linkedin.com/jobs/view/3733652948/)
