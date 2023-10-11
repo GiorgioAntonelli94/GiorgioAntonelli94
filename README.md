@@ -2,4 +2,6 @@
 
 # Junior HR Recruiter
 
+Research Developer with: Java, .Net, Angular, Python, Django, PHP, Moodle, Worpdress, Ionic, React
+
 # inRebus Technologies srl | Società del Gruppo FOS 
