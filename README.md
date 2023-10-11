@@ -5,3 +5,10 @@
 Research Developer with: Java, .Net, Angular, Python, Django, PHP, Moodle, Worpdress, Ionic, React
 
 # inRebus Technologies srl | Società del Gruppo FOS 
+
+# Send your cv
+hrm@inrebus.it
+
+
+# Follow on:
+https://www.linkedin.com/company/inrebus-s.r.l./mycompany/
