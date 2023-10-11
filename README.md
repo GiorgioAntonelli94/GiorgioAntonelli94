@@ -2,7 +2,7 @@
 
 # Junior HR Recruiter
 
-Research Developer with: Java, .Net, Angular, Python, Django, PHP, Moodle, Worpdress, Ionic, React
+Ricerca profili in ambito: Java, .Net, Angular, Python, Django, PHP, Moodle, Worpdress, Ionic, React
 
 # inRebus Technologies srl | Società del Gruppo FOS 
 inRebus Technologies nasce a Torino nel 2003 come software house e consulting company: l’azienda prosegue un cammino nel settore informatico che risale ai primi anni '90 e che tutt’ora la vede impegnata in rilevanti attività di sviluppo software e di prodotti di assistenza remota (SKITE), nonché nella fornitura di personale qualificato in consulenza presso i nostri clienti.
