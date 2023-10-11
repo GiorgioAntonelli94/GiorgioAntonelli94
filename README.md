@@ -19,5 +19,4 @@ https://www.linkedin.com/company/inrebus-s.r.l./mycompany/
 [![Email](https://img.shields.io/badge/hrm@inrebus.it-ffa500.svg?style=for-the-badge&logo=gmail&logoColor=black)](hrm@inrebus.it)
 
 # Posizioni aperte
-- [Sviluppatore/Sviluppatrice PHP](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-sviluppatrice-php-torino_152316.aspx)
-- [Specialista Container e Microservizi](https://www.linkedin.com/jobs/view/3733652948/)
+- [Sviluppatore/Sviluppatrice PHP](https://zinrec.intervieweb.it/gruppofos/jobs/sviluppatoresviluppatrice-moodle-22276/it/)
