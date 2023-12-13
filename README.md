@@ -17,7 +17,7 @@ Nel dicembre 2020 inRebus Technologies è entrata a far parte di FOS S.p.A., PMI
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/inrebus-s.r.l./about/)
 
 # Lavora con noi
-[Candidature](https://zinrec.intervieweb.it/gruppofos)
+hrm@inrebus.it
 
 # Posizioni aperte
 [RPGAS400 Developer](https://www.linkedin.com/jobs/view/3776934002/?alternateChannel=search&refId=JuxBJsjyWq22di529OmhVA%3D%3D&trackingId=0FFJWCbd4OeU%2Fb2RPdO0gQ%3D%3D)
