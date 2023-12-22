@@ -61,7 +61,5 @@ hrm@inrebus.it
 
 # Posizioni aperte
 
-[RPGAS400 Developer](https://www.linkedin.com/jobs/view/3776934002/?alternateChannel=search&refId=JuxBJsjyWq22di529OmhVA%3D%3D&trackingId=0FFJWCbd4OeU%2Fb2RPdO0gQ%3D%3D)
-
 [DBA Mongo DB](https://www.linkedin.com/jobs/view/3775729422/?alternateChannel=search&refId=JuxBJsjyWq22di529OmhVA%3D%3D&trackingId=lbeiwpG5m8%2BHcW0lpUfKCQ%3D%3D)
 
