@@ -61,5 +61,7 @@ hrm@inrebus.it
 
 # Posizioni aperte
 
+[Android/IOS Developer](https://www.iprogrammatori.it/lavoro/ricerca_developer-android-e-ios-smart-working_155398.aspx)
+
 [DBA Mongo DB](https://www.linkedin.com/jobs/view/3775729422/?alternateChannel=search&refId=JuxBJsjyWq22di529OmhVA%3D%3D&trackingId=lbeiwpG5m8%2BHcW0lpUfKCQ%3D%3D)
 
