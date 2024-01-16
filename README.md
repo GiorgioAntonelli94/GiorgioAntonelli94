@@ -63,5 +63,8 @@ hrm@inrebus.it
 
 [Android/IOS Developer](https://www.iprogrammatori.it/lavoro/ricerca_developer-android-e-ios-smart-working_155398.aspx)
 
-[DBA Mongo DB](https://www.linkedin.com/jobs/view/3775729422/?alternateChannel=search&refId=JuxBJsjyWq22di529OmhVA%3D%3D&trackingId=lbeiwpG5m8%2BHcW0lpUfKCQ%3D%3D)
+[Junior react native developer](https://www.iprogrammatori.it/lavoro/ricerca_junior-developer-react-native-smart-working_155518.aspx)
+
+[Sviluppatore Java-Oracle](https://it.indeed.com/job/sviluppatoresviluppatrice-java-oracle-ba7e43b32204d222)
+
 
