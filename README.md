@@ -67,4 +67,8 @@ hrm@inrebus.it
 
 [Sviluppatore Java-Oracle](https://it.indeed.com/job/sviluppatoresviluppatrice-java-oracle-ba7e43b32204d222)
 
+[Tech lead senior](https://it.indeed.com/job/tech-lead-senior-eeb62cd801b34eda)
 
+[Junior Cloud AWS](https://www.linkedin.com/jobs/view/3811057044/?alternateChannel=search&refId=sCKZ8YZvl8XhiBUKAri6DQ%3D%3D&trackingId=JVxfn265iX%2FO4jtOjOPHZw%3D%3D)
+
+[Java Back end Developer](https://www.linkedin.com/jobs/view/3811901674/?alternateChannel=search&refId=mcvwzAM7AWHOt5%2FP6AfABw%3D%3D&trackingId=NUwPoCwB%2BEBoghF4gHpjwg%3D%3D)
