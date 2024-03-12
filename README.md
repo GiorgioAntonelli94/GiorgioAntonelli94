@@ -61,23 +61,9 @@ hrm@inrebus.it
 
 # Posizioni aperte
 
-[Android/IOS Developer](https://www.iprogrammatori.it/lavoro/ricerca_developer-android-e-ios-smart-working_155398.aspx)
-
-[Junior Java-spring boot developer](https://www.linkedin.com/jobs/view/3828187123/?refId=ik67CDZqRTGIXD1EAzs70g%3D%3D&trackingId=ik67CDZqRTGIXD1EAzs70g%3D%3D)
-
 [Senior Java-Kafka Developer](https://it.indeed.com/job/senior-developer-java-microservizi-kafka-full-remote-2d1b68cac568c387)
 
-[Technical Leader](https://www.linkedin.com/jobs/view/3812198876/)
 
-[Junior Cloud AWS](https://employers.indeed.com/jobs/view?employerJobId=aXJpOi8vYXBpcy5pbmRlZWQuY29tL0VtcGxveWVySm9iLzVkNGQwNTdkLTJiMzQtNGQ2YS04OWMzLWI5MTFiNTU3Y2Y0OQ%3D%3D&from=%253FsortDirection%253DDESC%2526sortField%253DdatePostedOnIndeed)
-
-[Developer React Native](https://www.linkedin.com/jobs/view/3806179144/?alternateChannel=search&refId=RJb0potmdyCzckY6s%2FEkhw%3D%3D&trackingId=TNdqDsOI5lrvaqOeVRD1iw%3D%3D)
-
-[Java Back end Developer](https://www.linkedin.com/jobs/view/3811901674/?alternateChannel=search&refId=mcvwzAM7AWHOt5%2FP6AfABw%3D%3D&trackingId=NUwPoCwB%2BEBoghF4gHpjwg%3D%3D)
-
-[Tech lead senior](https://it.indeed.com/job/tech-lead-senior-eeb62cd801b34eda)
-
-[Sviluppatore/sviluppatrice Java-Oracle](https://it.indeed.com/job/sviluppatoresviluppatrice-java-oracle-ba7e43b32204d222)
 
 [Android e IOS Developer](https://employers.indeed.com/jobs/view?employerJobId=aXJpOi8vYXBpcy5pbmRlZWQuY29tL0VtcGxveWVySm9iLzExMjYwOTUxLWNiMGMtNGU2ZC05MmM2LWQ3NjQ2MmU1NGZjYw%3D%3D&from=%253FsortDirection%253DDESC%2526sortField%253DdatePostedOnIndeed&from=%3FsortDirection%3DDESC%26sortField%3DdatePostedOnIndeed)
 
