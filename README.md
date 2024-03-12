@@ -63,12 +63,3 @@ hrm@inrebus.it
 
 [Senior Java-Kafka Developer](https://it.indeed.com/job/senior-developer-java-microservizi-kafka-full-remote-2d1b68cac568c387)
 
-
-
-[Android e IOS Developer](https://employers.indeed.com/jobs/view?employerJobId=aXJpOi8vYXBpcy5pbmRlZWQuY29tL0VtcGxveWVySm9iLzExMjYwOTUxLWNiMGMtNGU2ZC05MmM2LWQ3NjQ2MmU1NGZjYw%3D%3D&from=%253FsortDirection%253DDESC%2526sortField%253DdatePostedOnIndeed&from=%3FsortDirection%3DDESC%26sortField%3DdatePostedOnIndeed)
-
-[System Engineer](https://it.indeed.com/job/system-engineer-middle-senior-09366fa0efea9bd2)
-
-[Sistemista MS Windows Exchange](https://it.indeed.com/job/sistemista-ms-windows-exchange-2fe0b1cd6e812703)
-
-[Sistemist MS Windows SCCM/INTUNE](https://it.indeed.com/job/sistemista-ms-windows-sccmintune-a996e29c52e55487)
