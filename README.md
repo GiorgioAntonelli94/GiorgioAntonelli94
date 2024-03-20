@@ -63,3 +63,7 @@ hrm@inrebus.it
 
 [Senior Java-Kafka Developer](https://it.indeed.com/job/senior-developer-java-microservizi-kafka-full-remote-2d1b68cac568c387)
 
+[Sistemista Junior Middleware](https://www.iprogrammatori.it/lavoro/ricerca_sistemista-junior-middleware-milano_157351.aspx)
+
+[Servicenow specialist](https://www.iprogrammatori.it/lavoro/ricerca_servicenow-specialist-full-remote-roma_157173.aspx)
+
