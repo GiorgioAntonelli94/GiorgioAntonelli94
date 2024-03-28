@@ -61,7 +61,7 @@ hrm@inrebus.it
 
 # Posizioni aperte
 
-[Sviluppatore/Sviluppatrice React Senior]([https://zinrec.intervieweb.it/gruppofos/jobs/sviluppatore-react-senior-fullremote-36568/it/]
+[Sviluppatore/Sviluppatrice React Senior](https://zinrec.intervieweb.it/gruppofos/jobs/sviluppatore-react-senior-fullremote-36568/it/)
 
 [Sviluppatore/Sviluppatrice Moodle](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-sviluppatrice-middle-php-moodle-torin_152316.aspx)
 
