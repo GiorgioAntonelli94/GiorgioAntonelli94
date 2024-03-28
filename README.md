@@ -61,6 +61,8 @@ hrm@inrebus.it
 
 # Posizioni aperte
 
+[Java Back End Developer - Trento](https://www.linkedin.com/jobs/view/3872978300/)
+
 [Sviluppatore/Sviluppatrice React Senior](https://zinrec.intervieweb.it/gruppofos/jobs/sviluppatore-react-senior-fullremote-36568/it/)
 
 [Sviluppatore/Sviluppatrice Moodle](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-sviluppatrice-middle-php-moodle-torin_152316.aspx)
