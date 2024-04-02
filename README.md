@@ -61,6 +61,8 @@ hrm@inrebus.it
 
 # Posizioni aperte
 
+[Data Scientist Senior](https://www.iprogrammatori.it/lavoro/ricerca_data-scientist-senior-ibrido-su-milano-milano_157652.aspx)
+
 [Java Back End Developer - Trento](https://www.linkedin.com/jobs/view/3872978300/)
 
 [Sviluppatore/Sviluppatrice React Senior](https://zinrec.intervieweb.it/gruppofos/jobs/sviluppatore-react-senior-fullremote-36568/it/)
