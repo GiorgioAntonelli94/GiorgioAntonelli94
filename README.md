@@ -61,6 +61,8 @@ hrm@inrebus.it
 
 # Posizioni aperte
 
+[Cloud AWS Roma, Ibrido](https://www.linkedin.com/jobs/view/3886259036/)
+
 [Data Scientist Senior](https://www.iprogrammatori.it/lavoro/ricerca_data-scientist-senior-ibrido-su-milano-milano_157652.aspx)
 
 [Java Back End Developer - Trento](https://www.linkedin.com/jobs/view/3872978300/)
