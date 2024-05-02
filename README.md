@@ -61,19 +61,6 @@ hrm@inrebus.it
 
 # Posizioni aperte
 
-[Cloud AWS Roma, Ibrido](https://www.linkedin.com/jobs/view/3886259036/)
+[Java11-Angular full-stack developer full remote](https://www.linkedin.com/jobs/view/3915414852/)
 
-[Data Scientist Senior](https://www.iprogrammatori.it/lavoro/ricerca_data-scientist-senior-ibrido-su-milano-milano_157652.aspx)
-
-[Java Back End Developer - Trento](https://www.linkedin.com/jobs/view/3872978300/)
-
-[Sviluppatore/Sviluppatrice React Senior](https://zinrec.intervieweb.it/gruppofos/jobs/sviluppatore-react-senior-fullremote-36568/it/)
-
-[Sviluppatore/Sviluppatrice Moodle](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-sviluppatrice-middle-php-moodle-torin_152316.aspx)
-
-[Senior Java-Kafka Developer](https://it.indeed.com/job/senior-developer-java-microservizi-kafka-full-remote-2d1b68cac568c387)
-
-[Sistemista Junior Middleware](https://www.iprogrammatori.it/lavoro/ricerca_sistemista-junior-middleware-milano_157351.aspx)
-
-[Servicenow specialist](https://www.iprogrammatori.it/lavoro/ricerca_servicenow-specialist-full-remote-roma_157173.aspx)
 
