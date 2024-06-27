@@ -61,6 +61,7 @@ hrm@inrebus.it
 
 # Posizioni aperte
 
-[Java11-Angular full-stack developer full remote](https://www.linkedin.com/jobs/view/3915414852/)
+[Analista programmatore .Net](https://it.indeed.com/job/analista-programmatore-net-esperienza-3-e9cf275ff1f46c95)
+[Analista programmatore senior ERP](https://it.indeed.com/job/analista-programmatore-senior-erp-337860684aa40e41)
 
 
