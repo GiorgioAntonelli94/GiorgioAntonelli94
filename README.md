@@ -57,7 +57,10 @@ to design and provide customized digital learning solutions: Commercial and tech
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/inrebus-s.r.l./about/)
 
 # Lavora con noi
+
 hrm@inrebus.it
+
+https://zinrec.intervieweb.it/gruppofos/it/career                        
 
 # Posizioni aperte
 
