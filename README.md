@@ -73,7 +73,7 @@ hrm@inrebus.it
 
 [Sviluppatore Java - PL1](https://it.indeed.com/job/sviluppatore-java-pl1-senior-1ab9f4326a9670de)
 
-[  ](  )
+[Deveops Engineer](https://it.indeed.com/job/devops-engineer-ea478f94b6af5d51))
 
 [Analista programmatore .Net](https://it.indeed.com/job/analista-programmatore-net-esperienza-3-e9cf275ff1f46c95)
 
