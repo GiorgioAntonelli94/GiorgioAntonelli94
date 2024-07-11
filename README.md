@@ -67,13 +67,11 @@ hrm@inrebus.it
 
 [Sistemista MongoDB](https://it.indeed.com/job/sistemista-mongodb-b62e30f9454691ec)
 
-[Sistemista MongoDB](https://it.indeed.com/job/software-development-senior-kafka-f7f03408597301a0)
+[Software Developer Kafka](https://it.indeed.com/job/software-development-senior-kafka-f7f03408597301a0)
 
-[Sistemista MongoDB](https://it.indeed.com/job/sviluppatore-java-cobol-senior-72c0128c37dae436)
+[Sviluppatore Java-Cobol](https://it.indeed.com/job/sviluppatore-java-cobol-senior-72c0128c37dae436)
 
 [Sviluppatore Java - PL1](https://it.indeed.com/job/sviluppatore-java-pl1-senior-1ab9f4326a9670de)
-
-[Sviluppatore Java - PL1](  )
 
 [  ](  )
 
