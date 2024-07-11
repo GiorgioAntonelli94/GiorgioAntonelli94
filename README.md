@@ -69,8 +69,6 @@ to design and provide customized digital learning solutions: Commercial and tech
 
 hrm@inrebus.it
 
-https%3A%2F%2Fzinrec.intervieweb.it%2Fgruppofos%2Fit%2Fcareer%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20
-
                      
 # Posizioni aperte
 
