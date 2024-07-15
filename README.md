@@ -72,7 +72,7 @@ hrm@inrebus.it
                      
 # Posizioni aperte
 
-[Junior Java Developer](https://www.linkedin.com/jobs/view/3974385647/?alternateChannel=search&refId=KsDrsuWyhKQp3M%2FRSwAUHw%3D%3D&trackingId=x4UBxo2sdPGmnBCQXgEtPw%3D%3D))
+[Junior Java Developer](https://www.linkedin.com/jobs/view/3974385647/?alternateChannel=search&refId=KsDrsuWyhKQp3M%2FRSwAUHw%3D%3D&trackingId=x4UBxo2sdPGmnBCQXgEtPw%3D%3D)
 
 [Project Manager](https://zinrec.intervieweb.it/gruppofos/jobs/project-manager-roma-onsite-46353/it/)
 
