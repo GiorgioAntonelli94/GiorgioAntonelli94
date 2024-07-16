@@ -58,8 +58,6 @@ to design and provide customized digital learning solutions: Commercial and tech
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![InRebus Technologies](https://github.com/GiorgioAntonelli94/images/blob/14d8bcb6f14f844b9ad29f27ffcbca9bfcaa1d5b/inrebus.jpg)
-
 
 # Seguici su
 [![inRebus Technologies](https://img.shields.io/badge/Website-ffa500.svg?style=for-the-badge&logo=readthedocs&logoColor=black)](https://www.inrebus.it/)
