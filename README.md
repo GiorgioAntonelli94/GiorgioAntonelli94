@@ -65,7 +65,7 @@ to design and provide customized digital learning solutions: Commercial and tech
 
 # Lavora con noi
 
-hrm@inrebus.it
+![hrm@inrebus.it](https://img.shields.io/badge/email-hrm@inrebus.it-orange)
 
                      
 # Posizioni aperte
