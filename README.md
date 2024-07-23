@@ -70,25 +70,14 @@ to design and provide customized digital learning solutions: Commercial and tech
                      
 # Posizioni aperte
 
+[Analista Funzionale Junior](https://zinrec.intervieweb.it/gruppofos/jobs/analista-funzionale-junior-torino-47200/it/)
 
-[Senior BigData Analyst](https://www.linkedin.com/jobs/view/3975875309/)
+[Technical Leader .NET- Angular](https://zinrec.intervieweb.it/gruppofos/jobs/technical-leader-net-angular-47554/it/)
 
-[Junior Java Developer](https://www.linkedin.com/jobs/view/3974385647/?alternateChannel=search&refId=KsDrsuWyhKQp3M%2FRSwAUHw%3D%3D&trackingId=x4UBxo2sdPGmnBCQXgEtPw%3D%3D)
-
-[Software Analyst Engineer Java (Full-remote)](https://zinrec.intervieweb.it/gruppofos/jobs/software-analyst-engineer-java-full-remote-46064/it/)
+[Specialista Angular](https://zinrec.intervieweb.it/gruppofos/jobs/specialista-angular-fullremote-47550/it/)
 
 [Sistemista MongoDB](https://it.indeed.com/job/sistemista-mongodb-b62e30f9454691ec)
 
-[Software Developer Kafka](https://it.indeed.com/job/software-development-senior-kafka-f7f03408597301a0)
-
-[Sviluppatore Java-Cobol](https://it.indeed.com/job/sviluppatore-java-cobol-senior-72c0128c37dae436)
-
-[Sviluppatore Java - PL1](https://it.indeed.com/job/sviluppatore-java-pl1-senior-1ab9f4326a9670de)
-
-[Devops Engineer](https://it.indeed.com/job/devops-engineer-ea478f94b6af5d51)
-
-[Analista programmatore .Net](https://it.indeed.com/job/analista-programmatore-net-esperienza-3-e9cf275ff1f46c95)
-
-[Analista programmatore senior ERP](https://it.indeed.com/job/analista-programmatore-senior-erp-337860684aa40e41)
+[Analista Funzionale Senior](https://www.linkedin.com/jobs/view/3980984174/?refId=hpH42cMMCB2%2B7Do0EofjUw%3D%3D&trackingId=hpH42cMMCB2%2B7Do0EofjUw%3D%3D)
 
 
