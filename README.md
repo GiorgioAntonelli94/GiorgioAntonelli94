@@ -76,8 +76,6 @@ to design and provide customized digital learning solutions: Commercial and tech
 
 [Specialista Angular](https://zinrec.intervieweb.it/gruppofos/jobs/specialista-angular-fullremote-47550/it/)
 
-[Sistemista MongoDB](https://it.indeed.com/job/sistemista-mongodb-b62e30f9454691ec)
-
 [Analista Funzionale Senior](https://www.linkedin.com/jobs/view/3980984174/?refId=hpH42cMMCB2%2B7Do0EofjUw%3D%3D&trackingId=hpH42cMMCB2%2B7Do0EofjUw%3D%3D)
 
 
