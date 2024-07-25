@@ -70,6 +70,8 @@ to design and provide customized digital learning solutions: Commercial and tech
                      
 # Posizioni aperte
 
+[Java angular full-stack](https://it.indeed.com/job/java-angular-full-stack-developer-76cab7bc6962390a)
+
 [Analista Funzionale Junior](https://zinrec.intervieweb.it/gruppofos/jobs/analista-funzionale-junior-torino-47200/it/)
 
 [Technical Leader .NET- Angular](https://zinrec.intervieweb.it/gruppofos/jobs/technical-leader-net-angular-47554/it/)
