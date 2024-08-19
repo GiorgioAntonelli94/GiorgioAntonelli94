@@ -76,8 +76,6 @@ to design and provide customized digital learning solutions: Commercial and tech
 
 [Technical Leader .NET- Angular](https://zinrec.intervieweb.it/gruppofos/jobs/technical-leader-net-angular-47554/it/)
 
-[Specialista Angular](https://zinrec.intervieweb.it/gruppofos/jobs/specialista-angular-fullremote-47550/it/)
 
-[Analista Funzionale Senior](https://www.linkedin.com/jobs/view/3980984174/?refId=hpH42cMMCB2%2B7Do0EofjUw%3D%3D&trackingId=hpH42cMMCB2%2B7Do0EofjUw%3D%3D)
 
 
