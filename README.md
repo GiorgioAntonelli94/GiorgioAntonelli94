@@ -70,12 +70,15 @@ to design and provide customized digital learning solutions: Commercial and tech
                      
 # Posizioni aperte
 
+[Data Engineer/Databricks Consultant](https://www.linkedin.com/jobs/view/4010113993/?refId=J6tz5MJIT1iS2dO3d%2BArVA%3D%3D&trackingId=J6tz5MJIT1iS2dO3d%2BArVA%3D%3D)
+
+[Tirocinio Retribuito Java](https://www.linkedin.com/jobs/view/4008465281/)
+
 [Java angular full-stack](https://it.indeed.com/job/java-angular-full-stack-developer-76cab7bc6962390a)
 
 [Analista Funzionale Junior](https://zinrec.intervieweb.it/gruppofos/jobs/analista-funzionale-junior-torino-47200/it/)
 
-[Technical Leader .NET- Angular](https://zinrec.intervieweb.it/gruppofos/jobs/technical-leader-net-angular-47554/it/)
-
+[Data Architect](https://it.indeed.com/job/data-architect-66989dbdbe286bbf)
 
 
 
