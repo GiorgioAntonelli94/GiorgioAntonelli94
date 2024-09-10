@@ -70,13 +70,11 @@ to design and provide customized digital learning solutions: Commercial and tech
                      
 # Posizioni aperte
 
+[Senior Full-Stack Developer (Java- Angular, Ionic)](https://www.linkedin.com/jobs/view/4020394740/?refId=iHNrNA0CTECIKYc7f8NTBg%3D%3D&trackingId=iHNrNA0CTECIKYc7f8NTBg%3D%3D)
+
 [Data Engineer/Databricks Consultant](https://www.linkedin.com/jobs/view/4010113993/?refId=J6tz5MJIT1iS2dO3d%2BArVA%3D%3D&trackingId=J6tz5MJIT1iS2dO3d%2BArVA%3D%3D)
 
-[Tirocinio Retribuito Java](https://www.linkedin.com/jobs/view/4008465281/)
-
 [Java angular full-stack](https://it.indeed.com/job/java-angular-full-stack-developer-76cab7bc6962390a)
-
-[Analista Funzionale Junior](https://zinrec.intervieweb.it/gruppofos/jobs/analista-funzionale-junior-torino-47200/it/)
 
 [Data Architect](https://it.indeed.com/job/data-architect-66989dbdbe286bbf)
 
