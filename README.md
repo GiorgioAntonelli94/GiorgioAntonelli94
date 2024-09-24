@@ -70,13 +70,17 @@ to design and provide customized digital learning solutions: Commercial and tech
                      
 # Posizioni aperte
 
+[Sviluppatore/Sviluppatrice Java-Back end](https://www.linkedin.com/jobs/view/4033971491/)
+
+[Analista Programmatore Senior](https://it.indeed.com/job/analista-programmatore-senior-9b153b0b7fb2399b)
+
+[Analista programmatore Middle](https://it.indeed.com/job/analista-programmatore-middle-ee71ff0fbf2ce60a)
+
+[Specialist Security DBA Oracle](https://it.indeed.com/job/specialist-security-dba-oracle-d23e1f7e94ef04fe)
+
 [Senior Full-Stack Developer (Java- Angular, Ionic)](https://www.linkedin.com/jobs/view/4020394740/?refId=iHNrNA0CTECIKYc7f8NTBg%3D%3D&trackingId=iHNrNA0CTECIKYc7f8NTBg%3D%3D)
 
-[Data Engineer/Databricks Consultant](https://www.linkedin.com/jobs/view/4010113993/?refId=J6tz5MJIT1iS2dO3d%2BArVA%3D%3D&trackingId=J6tz5MJIT1iS2dO3d%2BArVA%3D%3D)
 
-[Java angular full-stack](https://it.indeed.com/job/java-angular-full-stack-developer-76cab7bc6962390a)
-
-[Data Architect](https://it.indeed.com/job/data-architect-66989dbdbe286bbf)
 
 
 
