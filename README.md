@@ -70,6 +70,12 @@ to design and provide customized digital learning solutions: Commercial and tech
                      
 # Posizioni aperte
 
+[Cloud Specialist Full-remote](https://www.iprogrammatori.it/lavoro/ricerca_cloud-specialist-full-remote-smart-working_160642.aspx)
+
+[Cloud Engineer Full-remote](https://zinrec.intervieweb.it/gruppofos/jobs/cloud-engineer-fullremote-53058/it/)
+
+[Cloud Architect Full-remote](https://zinrec.intervieweb.it/gruppofos/jobs/cloud-architect-fullremote-53057/it/)
+
 [Sviluppatore/Sviluppatrice Java-Back end](https://www.linkedin.com/jobs/view/4033971491/)
 
 [Analista Programmatore Senior](https://it.indeed.com/job/analista-programmatore-senior-9b153b0b7fb2399b)
