@@ -70,21 +70,27 @@ to design and provide customized digital learning solutions: Commercial and tech
                      
 # Posizioni aperte
 
-[Cloud Specialist Full-remote](https://www.iprogrammatori.it/lavoro/ricerca_cloud-specialist-full-remote-smart-working_160642.aspx)
+[ANALISTI FUNZIONALI/BUSINESS ANALYST](https://it.indeed.com/job/analisti-funzionalibusiness-analyst-5464ab5e8a1f0fcd?_gl=1*mhatxr*_gcl_au*MTk1ODg4NzkzNC4xNzI3MTgzMTAy*_ga*MTg4MTYzODI4MC4xNzI3MTgzMTAy*_ga_5KTMMETCF4*MTczMDExMDIyMy40NC4xLjE3MzAxMTA5MTIuNTguMC4w)
 
-[Cloud Engineer Full-remote](https://zinrec.intervieweb.it/gruppofos/jobs/cloud-engineer-fullremote-53058/it/)
+[Java Developer (full-remote)](https://it.indeed.com/job/java-developer-full-remote-90f6723236823c65?_gl=1*1ifngx8*_gcl_au*MTk1ODg4NzkzNC4xNzI3MTgzMTAy*_ga*MTg4MTYzODI4MC4xNzI3MTgzMTAy*_ga_5KTMMETCF4*MTczMDExMDIyMy40NC4xLjE3MzAxMTA5MTIuNTguMC4w)
 
-[Cloud Architect Full-remote](https://zinrec.intervieweb.it/gruppofos/jobs/cloud-architect-fullremote-53057/it/)
+[FULL STACK oppure 13 FE e 12 BE](https://it.indeed.com/job/full-stack-oppure-13-fe-e-12-be-6d88ee2fc1ec7661?_gl=1*1aa1wpv*_gcl_au*MTk1ODg4NzkzNC4xNzI3MTgzMTAy*_ga*MTg4MTYzODI4MC4xNzI3MTgzMTAy*_ga_5KTMMETCF4*MTczMDExMDIyMy40NC4xLjE3MzAxMTA5MTIuNTguMC4w)
 
-[Sviluppatore/Sviluppatrice Java-Back end](https://www.linkedin.com/jobs/view/4033971491/)
+[Middle Mobile App Developer (Flutter)](https://it.indeed.com/job/middle-mobile-app-developer-flutter-75982956b9e1f9c8?_gl=1*1aa1wpv*_gcl_au*MTk1ODg4NzkzNC4xNzI3MTgzMTAy*_ga*MTg4MTYzODI4MC4xNzI3MTgzMTAy*_ga_5KTMMETCF4*MTczMDExMDIyMy40NC4xLjE3MzAxMTA5MTIuNTguMC4w)
 
-[Analista Programmatore Senior](https://it.indeed.com/job/analista-programmatore-senior-9b153b0b7fb2399b)
+[Middle Python Developer](https://it.indeed.com/job/middle-python-developer-8f803fc01cb80830?_gl=1*1aa1wpv*_gcl_au*MTk1ODg4NzkzNC4xNzI3MTgzMTAy*_ga*MTg4MTYzODI4MC4xNzI3MTgzMTAy*_ga_5KTMMETCF4*MTczMDExMDIyMy40NC4xLjE3MzAxMTA5MTIuNTguMC4w)
 
-[Analista programmatore Middle](https://it.indeed.com/job/analista-programmatore-middle-ee71ff0fbf2ce60a)
+[Middle e Senior DevOps Engineer](https://it.indeed.com/job/middle-e-senior-devops-engineer-60ab14d4846b10cf?_gl=1*1aa1wpv*_gcl_au*MTk1ODg4NzkzNC4xNzI3MTgzMTAy*_ga*MTg4MTYzODI4MC4xNzI3MTgzMTAy*_ga_5KTMMETCF4*MTczMDExMDIyMy40NC4xLjE3MzAxMTA5MTIuNTguMC4w)
 
-[Specialist Security DBA Oracle](https://it.indeed.com/job/specialist-security-dba-oracle-d23e1f7e94ef04fe)
+[Senior Technical Leader](https://it.indeed.com/job/senior-technical-leader-e97f8f7a1ea056fa?_gl=1*j02gi*_gcl_au*MTk1ODg4NzkzNC4xNzI3MTgzMTAy*_ga*MTg4MTYzODI4MC4xNzI3MTgzMTAy*_ga_5KTMMETCF4*MTczMDExMDIyMy40NC4xLjE3MzAxMTA5MTIuNTguMC4w)
 
-[Senior Full-Stack Developer (Java- Angular, Ionic)](https://www.linkedin.com/jobs/view/4020394740/?refId=iHNrNA0CTECIKYc7f8NTBg%3D%3D&trackingId=iHNrNA0CTECIKYc7f8NTBg%3D%3D)
+[Middle e Senior Full-Stack Developer](https://it.indeed.com/job/middle-e-senior-full-stack-developer-05cf8ccefef56b4f?_gl=1*rgz4sd*_gcl_au*MTk1ODg4NzkzNC4xNzI3MTgzMTAy*_ga*MTg4MTYzODI4MC4xNzI3MTgzMTAy*_ga_5KTMMETCF4*MTczMDExMDIyMy40NC4xLjE3MzAxMTA5MTIuNTguMC4w)
+
+[Middle e Senior Frontend Developer](https://it.indeed.com/job/middle-e-senior-frontend-developer-d06418f8189d8754?_gl=1*j02gi*_gcl_au*MTk1ODg4NzkzNC4xNzI3MTgzMTAy*_ga*MTg4MTYzODI4MC4xNzI3MTgzMTAy*_ga_5KTMMETCF4*MTczMDExMDIyMy40NC4xLjE3MzAxMTA5MTIuNTguMC4w)
+
+[Middle e Senior Java BE Developer](https://it.indeed.com/job/middle-e-senior-java-be-developer-734a9ee169a97480?_gl=1*rgz4sd*_gcl_au*MTk1ODg4NzkzNC4xNzI3MTgzMTAy*_ga*MTg4MTYzODI4MC4xNzI3MTgzMTAy*_ga_5KTMMETCF4*MTczMDExMDIyMy40NC4xLjE3MzAxMTA5MTIuNTguMC4w)
+
+[Specialista SAP WM (Warehouse Management)](https://it.indeed.com/job/specialista-sap-wm-warehouse-management-776014649ab04709?_gl=1*rgz4sd*_gcl_au*MTk1ODg4NzkzNC4xNzI3MTgzMTAy*_ga*MTg4MTYzODI4MC4xNzI3MTgzMTAy*_ga_5KTMMETCF4*MTczMDExMDIyMy40NC4xLjE3MzAxMTA5MTIuNTguMC4w)
 
 
 
