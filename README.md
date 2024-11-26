@@ -70,11 +70,7 @@ to design and provide customized digital learning solutions: Commercial and tech
                      
 # Posizioni aperte
 
-[FULL STACK oppure 13 FE e 12 BE](https://it.indeed.com/job/full-stack-oppure-13-fe-e-12-be-6d88ee2fc1ec7661?_gl=1*1aa1wpv*_gcl_au*MTk1ODg4NzkzNC4xNzI3MTgzMTAy*_ga*MTg4MTYzODI4MC4xNzI3MTgzMTAy*_ga_5KTMMETCF4*MTczMDExMDIyMy40NC4xLjE3MzAxMTA5MTIuNTguMC4w)
-
-[Middle e Senior DevOps Engineer](https://it.indeed.com/job/middle-e-senior-devops-engineer-60ab14d4846b10cf?_gl=1*1aa1wpv*_gcl_au*MTk1ODg4NzkzNC4xNzI3MTgzMTAy*_ga*MTg4MTYzODI4MC4xNzI3MTgzMTAy*_ga_5KTMMETCF4*MTczMDExMDIyMy40NC4xLjE3MzAxMTA5MTIuNTguMC4w)
-
-[Specialista SAP WM (Warehouse Management)](https://it.indeed.com/job/specialista-sap-wm-warehouse-management-776014649ab04709?_gl=1*rgz4sd*_gcl_au*MTk1ODg4NzkzNC4xNzI3MTgzMTAy*_ga*MTg4MTYzODI4MC4xNzI3MTgzMTAy*_ga_5KTMMETCF4*MTczMDExMDIyMy40NC4xLjE3MzAxMTA5MTIuNTguMC4w)
+[Senior .NET developer](https://www.linkedin.com/jobs/view/4083345036/)
 
 
 
