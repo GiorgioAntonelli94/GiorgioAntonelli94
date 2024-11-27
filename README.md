@@ -70,6 +70,8 @@ to design and provide customized digital learning solutions: Commercial and tech
                      
 # Posizioni aperte
 
+[AMS/Analista programmatore Junior](https://it.indeed.com/job/analista-programmatoreams-junior-torino-d4f97e89d05c3223)
+
 [Senior .NET developer](https://www.linkedin.com/jobs/view/4083345036/)
 
 
