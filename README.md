@@ -70,9 +70,18 @@ to design and provide customized digital learning solutions: Commercial and tech
                      
 # Posizioni aperte
 
+[Full-stack developer](https://www.linkedin.com/jobs/view/4084185017/)
+
+[Java MongoDB](https://www.iprogrammatori.it/lavoro/ricerca_java-mongo-db-developer-mestre-venezia_161436.aspx)
+
 [AMS/Analista programmatore Junior](https://it.indeed.com/job/analista-programmatoreams-junior-torino-d4f97e89d05c3223)
 
 [Senior .NET developer](https://www.linkedin.com/jobs/view/4083345036/)
+
+[Senior DBA](https://it.indeed.com/job/dba-infrastrutturalesistemistico-senior-full-remote-a5a69ed81616fc18)
+
+[Test Analyst Middle](https://it.indeed.com/job/tester-analyst-middle-bf6820b750cfc2d2)
+
 
 
 
