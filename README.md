@@ -80,7 +80,6 @@ to design and provide customized digital learning solutions: Commercial and tech
 
 [Senior DBA](https://it.indeed.com/job/dba-infrastrutturalesistemistico-senior-full-remote-a5a69ed81616fc18)
 
-[Test Analyst Middle](https://it.indeed.com/job/tester-analyst-middle-bf6820b750cfc2d2)
 
 
 
