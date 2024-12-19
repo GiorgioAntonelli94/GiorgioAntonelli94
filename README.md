@@ -2,7 +2,7 @@
 
 # Junior HR Recruiter
 
-Ricerca profili in ambito: Java, .Net, Angular, Python, Django, PHP, Moodle, Worpdress, Ionic, React
+Ricerca profili in ambito: Java, .Net, Angular, Python, Django, PHP, Moodle, Ionic, React, Devops, Kubernetes, Docker
 
 # inRebus Technologies srl | Società del Gruppo FOS 
 💻Servizi IT e consulenza IT💻 
