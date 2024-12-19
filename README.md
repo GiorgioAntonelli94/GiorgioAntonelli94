@@ -70,15 +70,9 @@ to design and provide customized digital learning solutions: Commercial and tech
                      
 # Posizioni aperte
 
-[Full-stack developer](https://www.linkedin.com/jobs/view/4084185017/)
+[Kubernetes DevOps Engineer full-remote](https://zinrec.intervieweb.it/gruppofos/jobs/kubernetes-devops-engineer-fullremote-59012/it/)
 
-[Java MongoDB](https://www.iprogrammatori.it/lavoro/ricerca_java-mongo-db-developer-mestre-venezia_161436.aspx)
-
-[AMS/Analista programmatore Junior](https://it.indeed.com/job/analista-programmatoreams-junior-torino-d4f97e89d05c3223)
-
-[Senior .NET developer](https://www.linkedin.com/jobs/view/4083345036/)
-
-[Senior DBA](https://it.indeed.com/job/dba-infrastrutturalesistemistico-senior-full-remote-a5a69ed81616fc18)
+[.Net Developer Bologna](https://zinrec.intervieweb.it/gruppofos/jobs/net-developer-bologna-59334/it/)
 
 
 
