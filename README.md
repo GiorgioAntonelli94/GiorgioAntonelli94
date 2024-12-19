@@ -4,6 +4,19 @@
 
 Ciao! Sono **Giorgio Antonelli**, Junior HR Recruiter presso **inRebus Technologies**, parte del gruppo **FOS S.p.A.**. Mi occupo della ricerca e selezione di talenti nell’ambito IT, contribuendo alla crescita di aziende innovative con i migliori professionisti del settore.
 
+## 📞 Contatti
+- **Email**: [giorgio.antonelli@inrebus.it](mailto:giorgio.antonelli@inrebus.it)  
+- **LinkedIn**: [Giorgio Antonelli](https://www.linkedin.com/in/giorgioantonelli)  
+- **Sito Web Aziendale**: [inRebus Technologies](https://www.inrebus.it)  
+
+---
+
+### 🏢 Sede Operativa
+**inRebus Technologies Srl** | Società del Gruppo FOS  
+📍 **Torino, TO**  
+💻 **Servizi IT e Consulenza IT**  
+Seguici su [LinkedIn](https://www.linkedin.com/company/inrebus-technologies/) per scoprire le ultime novità!
+
 ---
 
 ## 🔍 Ambiti di Ricerca
@@ -33,6 +46,9 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze 
 - Progettazione DWH e dashboard dati aziendali
 
 ### **Digital Learning**
+[RE]SHAPING YOUR DIGITAL WORLD 🌍  
+**Spicy Digital Learning Outside the Box** 🚀
+
 - Formazione tecnica e commerciale su misura
 - Progetti di gamification per il learning
 - Sviluppo LMS personalizzati (Moodle, WordPress)
@@ -43,7 +59,6 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze 
 ## 💼 Posizioni Aperte
 
 - [Kubernetes DevOps Engineer full-remote](https://zinrec.intervieweb.it/gruppofos/jobs/kubernetes-devops-engineer-fullremote-59012/it/)
-- 
 - [.Net Developer Bologna](https://zinrec.intervieweb.it/gruppofos/jobs/net-developer-bologna-59334/it/)
 
 📧 **Candidature**: [hrm@inrebus.it](mailto:hrm@inrebus.it)
@@ -92,25 +107,4 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
----
-
-## 📞 Contatti
-- **Email**: [giorgio.antonelli@inrebus.it](mailto:giorgio.antonelli@inrebus.it)  
-- **LinkedIn**: [Giorgio Antonelli](https://www.linkedin.com/in/giorgioantonelli)  
-- **Sito Web Aziendale**: [inRebus Technologies](https://www.inrebus.it)  
-
----
-
-### 🏢 Sede Operativa
-**inRebus Technologies Srl** | Società del Gruppo FOS  
-📍 **Torino, TO**  
-💻 **Servizi IT e Consulenza IT**  
-
-[RE]SHAPING YOUR DIGITAL WORLD 🌍  
-**Spicy Digital Learning Outside the Box** 🚀
-
----
-
-Seguici su [LinkedIn](https://www.linkedin.com/company/inrebus-technologies/) per scoprire le ultime novità!
 
