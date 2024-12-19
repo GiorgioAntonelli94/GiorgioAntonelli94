@@ -39,16 +39,13 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze 
 ---
 
 ## 💡 Servizi Offerti
-### **Software Factory**
+[Software Factory](https://www.inrebus.it/)
 - Architetture software e design
 - Sviluppo di Web App e Mobile App responsive
 - Integrazione CMS/CRM avanzati
 - Progettazione DWH e dashboard dati aziendali
 
-### **Digital Learning**
-[RE]SHAPING YOUR DIGITAL WORLD 🌍  
-**Spicy Digital Learning Outside the Box** 🚀
-
+[Digital Learning](https://www.inrebus.education/)
 - Formazione tecnica e commerciale su misura
 - Progetti di gamification per il learning
 - Sviluppo LMS personalizzati (Moodle, WordPress)
