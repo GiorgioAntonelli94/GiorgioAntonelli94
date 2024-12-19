@@ -4,6 +4,10 @@
 
 Ricerca profili in ambito: Java, .Net, Angular, Python, Django, PHP, Moodle, Ionic, React, Devops, Kubernetes, Docker
 
+## 📞 Contatti
+- **Email**: [giorgio.antonelli@inrebus.it](giorgio.antonelli@inrebus.it)
+- **LinkedIn**: [Giorgio Antonelli](https://linkedin.com/in/tuo-profilo](https://www.linkedin.com/in/giorgio-antonelli-1b9152245/))
+
 # inRebus Technologies srl | Società del Gruppo FOS 
 💻Servizi IT e consulenza IT💻 
 🏢Torino, TO
