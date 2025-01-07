@@ -57,6 +57,7 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze 
 
 - [Kubernetes DevOps Engineer full-remote](https://zinrec.intervieweb.it/gruppofos/jobs/kubernetes-devops-engineer-fullremote-59012/it/)
 - [.Net Developer Bologna](https://zinrec.intervieweb.it/gruppofos/jobs/net-developer-bologna-59334/it/)
+- [AI Consultant](https://it.indeed.com/job/ai-consultant-cb3267ebc82393f9)
 
 📧 **Candidature**: [hrm@inrebus.it](mailto:hrm@inrebus.it)
 
