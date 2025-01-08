@@ -22,8 +22,8 @@ Seguici su [LinkedIn](https://www.linkedin.com/company/inrebus-technologies/) pe
 
 ## 🔍 Ambiti di Ricerca
 Seleziono profili IT altamente specializzati nei seguenti ambiti tecnologici:
-- **Linguaggi di Programmazione**: Java, Python, Django, PHP, .Net
-- **Framework e Tecnologie**: Angular, React, Ionic, Moodle
+- **Linguaggi di Programmazione**: Java, Python, PHP, .Net, C#, Javascript
+- **Framework e Tecnologie**: Angular, ReactJS, Ionic, Moodle, NodeJS
 - **DevOps e Cloud**: Kubernetes, Docker
 - **Metodologie Agile**: DevOps-oriented professionals
 
