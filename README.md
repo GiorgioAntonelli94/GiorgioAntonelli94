@@ -16,7 +16,6 @@ Ciao! Sono **Giorgio Antonelli**, Junior HR Recruiter presso **inRebus Technolog
 
 📍 **Torino, TO**  
 💻 **Servizi IT e Consulenza IT**  
-Seguici su [LinkedIn](https://www.linkedin.com/company/inrebus-technologies/) per scoprire le ultime novità!
 
 ---
 
