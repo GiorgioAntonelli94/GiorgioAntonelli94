@@ -57,8 +57,9 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze 
 ## 💼 Posizioni Aperte
 
 - [Kubernetes DevOps Engineer full-remote](https://zinrec.intervieweb.it/gruppofos/jobs/kubernetes-devops-engineer-fullremote-59012/it/)
-- [.Net Developer Bologna](https://zinrec.intervieweb.it/gruppofos/jobs/net-developer-bologna-59334/it/)
+- [.Net Developer Bologna](https://www.iprogrammatori.it/lavoro/ricerca_dotnet-developer-bologna-bologna_162265.aspx)
 - [AI Consultant](https://it.indeed.com/job/ai-consultant-cb3267ebc82393f9)
+- [PM IT Warehouse Support Specialist Torino-Modena](https://zinrec.intervieweb.it/gruppofos/jobs/pm-it-warehouse-support-specialist-torinomodena-61010/it/)
 
 📧 **Candidature**: [hrm@inrebus.it](mailto:hrm@inrebus.it)
 
