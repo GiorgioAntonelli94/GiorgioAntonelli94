@@ -59,6 +59,7 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze 
 - [.Net Developer Bologna](https://www.iprogrammatori.it/lavoro/ricerca_dotnet-developer-bologna-bologna_162265.aspx)
 - [AI Consultant](https://it.indeed.com/job/ai-consultant-cb3267ebc82393f9)
 - [PM IT Warehouse Support Specialist Torino-Modena](https://zinrec.intervieweb.it/gruppofos/jobs/pm-it-warehouse-support-specialist-torinomodena-61010/it/)
+- [Sviluppatore Backend Liferay DXP 7.x](https://www.iprogrammatori.it/lavoro/ricerca_sviluppatore-backend-liferay-dxp-7dotx-roma_162695.aspx)
 
 📧 **Candidature**: [hrm@inrebus.it](mailto:hrm@inrebus.it)
 
