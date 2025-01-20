@@ -55,6 +55,7 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze 
 
 ## 💼 Posizioni Aperte
 
+- [Specialista SAP SD/SI (Customizzazioni)](https://it.indeed.com/viewjob?jk=2757c297fbfda1c3&from=shareddesktop)
 - [Kubernetes DevOps Engineer full-remote](https://www.iprogrammatori.it/lavoro/ricerca_kubernetes-devops-engineer-full-remote-smart-worki_162207.aspx)
 - [Configuration Manager PL/SQL (Full-Remote)](https://zinrec.intervieweb.it/gruppofos/jobs/kubernetes-devops-engineer-fullremote-59012/it/)
 - [.Net Developer Bologna](https://www.iprogrammatori.it/lavoro/ricerca_dotnet-developer-bologna-bologna_162265.aspx)
