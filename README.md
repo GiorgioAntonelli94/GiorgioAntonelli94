@@ -55,8 +55,9 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze 
 
 ## 💼 Posizioni Aperte
 
-- [Java BE developer](https://it.indeed.com/job/java-developer-dd8d58d2970faa00)
-- [Specialista SAP SD/SI (Customizzazioni)](https://it.indeed.com/viewjob?jk=2757c297fbfda1c3&from=shareddesktop)
+- [REACT JS Developer full-remote](https://it.indeed.com/job/react-js-developer-full-remote-b1e60ef1d8deeca6)
+- [Senior Cybersecurity Tester](https://it.indeed.com/job/senior-cybersecurity-tester-46537051b8fe6a49)
+- [Junior Cybersecurity Tester](https://www.iprogrammatori.it/lavoro/ricerca_tester-in-ambito-cybersecurity-torino_163469.aspx)
 
 
 📧 **Candidature**: [hrm@inrebus.it](mailto:hrm@inrebus.it)
