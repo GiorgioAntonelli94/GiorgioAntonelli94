@@ -56,8 +56,8 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze 
 ## 💼 Posizioni Aperte
 
 - [REACT JS Developer full-remote](https://it.indeed.com/job/react-js-developer-full-remote-b1e60ef1d8deeca6)
-- [Senior Cybersecurity Tester](https://it.indeed.com/job/senior-cybersecurity-tester-46537051b8fe6a49)
-- [Junior Cybersecurity Tester](https://www.iprogrammatori.it/lavoro/ricerca_tester-in-ambito-cybersecurity-torino_163469.aspx)
+- [Senior Power BI Developer full-remote](https://zinrec.intervieweb.it/gruppofos/jobs/senior-power-bi-developer-fullremote-68630/it/)
+- [Senior Data Engineer full-remote](https://zinrec.intervieweb.it/gruppofos/jobs/senior-power-bi-developer-fullremote-68630/it/)
 
 
 📧 **Candidature**: [hrm@inrebus.it](mailto:hrm@inrebus.it)
