@@ -59,6 +59,7 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze 
 - [Senior Data Engineer full-remote](https://zinrec.intervieweb.it/gruppofos/jobs/senior-power-bi-developer-fullremote-68630/it/)
 - [Sviluppatore Java esperto su OSGi full-remote](https://it.indeed.com/job/sviluppatore-java-esperto-su-osgi-full-remote-e942a78c31d05f0f)
 - [Test Manager su Milano](https://zinrec.intervieweb.it/gruppofos/jobs/test-manager-milano-69207/it/)
+- [Sviluppatore C/C++ su Milano](https://it.indeed.com/job/sviluppatore-cc-milano-db66ab21747d6514)
 
 
 📧 **Candidature**: [hrm@inrebus.it](mailto:hrm@inrebus.it)
