@@ -9,15 +9,11 @@ Ciao! Sono **Giorgio Antonelli**, Junior HR Recruiter presso **inRebus Technolog
 - **LinkedIn**: [Giorgio Antonelli](https://www.linkedin.com/in/giorgioantonelli)  
 - **Sito Web Aziendale**: [inRebus Technologies](https://www.inrebus.it)  
 
----
-
 ### 🏢 Sede Operativa
 **inRebus Technologies Srl | Società del Gruppo FOS**
 
 📍 **Torino, TO**  
 💻 **Servizi IT e Consulenza IT**  
-
----
 
 ## 🔍 Ambiti di Ricerca
 Seleziono profili IT altamente specializzati nei seguenti ambiti tecnologici:
@@ -25,8 +21,6 @@ Seleziono profili IT altamente specializzati nei seguenti ambiti tecnologici:
 - **Framework e Tecnologie**: Angular, ReactJS, Ionic, Moodle, NodeJS
 - **DevOps e Cloud**: Kubernetes, Docker
 - **Metodologie Agile**: DevOps-oriented professionals
-
----
 
 ## 📈 Chi è inRebus Technologies?
 
@@ -36,7 +30,6 @@ Fondata a Torino nel 2003, **inRebus Technologies** è una software house e una 
 
 Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze in progettazione e sviluppo di prodotti e servizi digitali per grandi aziende e pubblica amministrazione.
 
----
 
 ## 💡 Servizi Offerti
 [Software Factory](https://www.inrebus.it/)
@@ -55,6 +48,14 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze 
 
 ## 💼 Posizioni Aperte
 
+[Java Spring Boot – PLM Windchill Maranello](https://zinrec.intervieweb.it/gruppofos/jobs/java-spring-boot-plm-windchill-maranello-72927/it/)
+
+[Devops Engineer MIlano](https://zinrec.intervieweb.it/gruppofos/jobs/devops-engineer-milano-72938/it/)
+
+[Senior Backend Developer full-remote](https://it.indeed.com/job/senior-backend-developer-full-remote-7a07fa0bcf4f8f20)
+
+[Analista Funzionale & ETRM Specialist-Energy Trading and Risk Management Specialist](https://it.indeed.com/job/analista-funzionale-etrm-specialist-energy-trading-and-risk-management-specialist-2dc6732380b4f341)
+
 [Embedded junior](https://it.indeed.com/job/ingegnere-meccatronico-junior-genova-a4089f61365546ea)
 
 [C# developer](https://it.indeed.com/job/c-developer-middle-settore-ferroviario-genova-bdb0fffa68cf4e57)
@@ -63,13 +64,10 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze 
 
 [IT Application Specialist – CRM & Billing Genova](https://it.indeed.com/job/it-application-specialist-crm-billing-genova-b6942afeeed2826b)
 
-[Sistemista Red Hat con competenze Ansible](https://it.indeed.com/job/sistemista-red-hat-con-competenze-ansible-d14f2d1e9751bfb5)
 
 📧 **Candidature**: [hrm@inrebus.it](mailto:hrm@inrebus.it)
 
 [![Career](https://img.shields.io/badge/Career-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://zinrec.intervieweb.it/gruppofos/it/career)  
-
----
 
 ## 🌟 Skills e Tecnologie
 
