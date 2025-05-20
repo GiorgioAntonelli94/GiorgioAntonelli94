@@ -52,17 +52,9 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze 
 
 [Devops Engineer MIlano](https://zinrec.intervieweb.it/gruppofos/jobs/devops-engineer-milano-72938/it/)
 
-[Senior Backend Developer full-remote](https://it.indeed.com/job/senior-backend-developer-full-remote-7a07fa0bcf4f8f20)
-
 [Analista Funzionale & ETRM Specialist-Energy Trading and Risk Management Specialist](https://it.indeed.com/job/analista-funzionale-etrm-specialist-energy-trading-and-risk-management-specialist-2dc6732380b4f341)
 
-[Embedded junior](https://it.indeed.com/job/ingegnere-meccatronico-junior-genova-a4089f61365546ea)
-
 [C# developer](https://it.indeed.com/job/c-developer-middle-settore-ferroviario-genova-bdb0fffa68cf4e57)
-
-[CAD Designer](https://it.indeed.com/job/progettistadisegnatoredisegnatrice-cad-junior-genova-9b78053da1568b4f)
-
-[IT Application Specialist – CRM & Billing Genova](https://it.indeed.com/job/it-application-specialist-crm-billing-genova-b6942afeeed2826b)
 
 
 📧 **Candidature**: [hrm@inrebus.it](mailto:hrm@inrebus.it)
