@@ -1,4 +1,4 @@
-![InRebus Technologies](https://github.com/GiorgioAntonelli94/presentation/blob/701f2437cbeb1193aebe385982ac1a2e54160801/loghi.jpg)
+![InRebus Technologies](https://github.com/GiorgioAntonelli94/GiorgioAntonelli94/blob/869f98ec9971d7c3262dab6e96de9b8813e67f48/inRebus-Fos_PRIDE%20(002).jpg)
 
 # 👋 Benvenuto sul mio Profilo GitHub | Junior HR Recruiter
 
