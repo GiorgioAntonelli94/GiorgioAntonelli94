@@ -48,13 +48,14 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze 
 
 ## 💼 Posizioni Aperte
 
-[Java Spring Boot – PLM Windchill Maranello](https://zinrec.intervieweb.it/gruppofos/jobs/java-spring-boot-plm-windchill-maranello-72927/it/)
+[Vmware Engineer Full-remote](https://zinrec.intervieweb.it/gruppofos/jobs/vmware-engineer-fullremote-75197/it/)
+
+[Senior Program Manager](https://zinrec.intervieweb.it/gruppofos/jobs/senior-project-program-manager-pozzuoli-onsite-trasferte-75034/it/)
 
 [Devops Engineer MIlano](https://zinrec.intervieweb.it/gruppofos/jobs/devops-engineer-milano-72938/it/)
 
 [Analista Funzionale & ETRM Specialist-Energy Trading and Risk Management Specialist](https://it.indeed.com/job/analista-funzionale-etrm-specialist-energy-trading-and-risk-management-specialist-2dc6732380b4f341)
 
-[C# developer](https://it.indeed.com/job/c-developer-middle-settore-ferroviario-genova-bdb0fffa68cf4e57)
 
 
 📧 **Candidature**: [hrm@inrebus.it](mailto:hrm@inrebus.it)
