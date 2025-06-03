@@ -48,6 +48,8 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze 
 
 ## 💼 Posizioni Aperte
 
+[Test Analyst Milano](https://it.indeed.com/job/test-analyst-milano-ibrido-b59141a2159a444b)
+
 [Vmware Engineer Full-remote](https://zinrec.intervieweb.it/gruppofos/jobs/vmware-engineer-fullremote-75197/it/)
 
 [Senior Program Manager](https://zinrec.intervieweb.it/gruppofos/jobs/senior-project-program-manager-pozzuoli-onsite-trasferte-75034/it/)
