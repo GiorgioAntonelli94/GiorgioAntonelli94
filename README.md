@@ -50,7 +50,7 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze 
 
 [Senior .Net Developer Full-remote](https://it.indeed.com/job/senior-net-developer-full-remote-36405ed8f7757dca)
 
-[Java BE Developer full-remote italy based](https://zinrec.intervieweb.it/gruppofos/jobs/java-be-developer-fullremote-77514/it/)
+[Reporting Specialist BI Torino](https://zinrec.intervieweb.it/gruppofos/jobs/reporting-specialist-bi-torino-80284/it/)
 
 [Analista Funzionale & ETRM Specialist-Energy Trading and Risk Management Specialist](https://it.indeed.com/job/analista-funzionale-etrm-specialist-energy-trading-and-risk-management-specialist-2dc6732380b4f341)
 
