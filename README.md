@@ -49,7 +49,7 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze 
 
 ## 💼 Posizioni Aperte
 
-[Senior .Net Developer Full-remote](https://it.indeed.com/job/senior-net-developer-full-remote-36405ed8f7757dca)
+[Moodle Developer Roma, Ibrido](https://zinrec.intervieweb.it/gruppofos/jobs/moodle-developer-roma-ibrido-81199/it/)
 
 [Reporting Specialist BI Torino](https://zinrec.intervieweb.it/gruppofos/jobs/reporting-specialist-bi-torino-80284/it/)
 
