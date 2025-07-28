@@ -38,7 +38,12 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgioantonelli&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GiorgioAntonelli94&theme=dark&ring=FFA500&fire=FFA500&currStreakNum=FFA500&sideNums=000000&currStreakLabel=FFA500&background=000000)
+### 🔥 GitHub Streak
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img height="160" align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=GiorgioAntonelli94&theme=dark" alt="GitHub Streak" />
+</a>
+
 
 ### 🏢 Sede Operativa
 **inRebus Technologies Srl | Società del Gruppo FOS**  
