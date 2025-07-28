@@ -13,7 +13,7 @@
 
 🎯 **Chi sono**  
 > Full Stack & Social Media Recruiter | Talent Acquisition presso **inRebus Technologies**, parte del **Gruppo FOS S.p.A.**  
-> Mi occupo della **ricerca e selezione di talenti IT**, contribuendo alla crescita di aziende innovative con i migliori professionisti del settore.
+> i occupo di ricerca e selezione di profili IT: Developers, Analisti, Sistemisti, Data Specialist… ma anche talenti creativi, specialmente nel settore del digital learning!
 
 
 
