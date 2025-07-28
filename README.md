@@ -15,14 +15,22 @@
 > Full Stack & Social Media Recruiter | Talent Acquisition presso **inRebus Technologies**, parte del **Gruppo FOS S.p.A.**  
 > Mi occupo della **ricerca e selezione di talenti IT**, contribuendo alla crescita di aziende innovative con i migliori professionisti del settore.
 
----
+
 
 ### 📫 Contatti
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Giorgio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgio-antonelli-1b9152245/)
 [![Email](https://img.shields.io/badge/Email-giorgio.antonelli@inrebus.it-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giorgio.antonelli@inrebus.it)
 
----
+## 📊 Le mie statistiche GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgioantonelli&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgioantonelli&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giorgioantonelli&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GiorgioAntonelli94&theme=dark&ring=FFA500&fire=FFA500&currStreakNum=FFA500&sideNums=000000&currStreakLabel=FFA500&background=000000)
 
 ### 🏢 Sede Operativa
 **inRebus Technologies Srl | Società del Gruppo FOS**  
@@ -68,7 +76,10 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le competenze in ambi
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&theme=radical)
+
+
+
+
 
 
 ## 💼 Posizioni Aperte
