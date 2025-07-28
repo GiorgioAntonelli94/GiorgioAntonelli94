@@ -26,10 +26,11 @@
   <a href="https://www.linkedin.com/in/giorgio-antonelli-1b9152245/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
+  <a href="mailto:giorgio.antonelli@inrebus.it" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="32" height="32" />
+  </a>
 </p>
 
-
-[![Email](https://img.shields.io/badge/Email-giorgio.antonelli@inrebus.it-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giorgio.antonelli@inrebus.it)
 
 ## 📊 Le mie statistiche GitHub
 
