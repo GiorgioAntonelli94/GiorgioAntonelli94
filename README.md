@@ -28,8 +28,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgioantonelli&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giorgioantonelli&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GiorgioAntonelli94&theme=dark&ring=FFA500&fire=FFA500&currStreakNum=FFA500&sideNums=000000&currStreakLabel=FFA500&background=000000)
 
 ### 🏢 Sede Operativa
