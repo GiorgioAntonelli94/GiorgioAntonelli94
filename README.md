@@ -47,16 +47,6 @@
 
 ---
 
-## 🔍 Ambiti di Ricerca
-Seleziono profili IT altamente specializzati nei seguenti ambiti tecnologici:
-
-- **Linguaggi**: Java, Python, PHP, .Net, C#, Javascript  
-- **Framework**: Angular, ReactJS, Ionic, Moodle, NodeJS  
-- **DevOps & Cloud**: Kubernetes, Docker  
-- **Agile**: DevOps-oriented professionals
-
----
-
 ## 📈 Chi è inRebus Technologies?
 
 Fondata a Torino nel 2003, **inRebus Technologies** è una software house e società di consulenza IT.  
