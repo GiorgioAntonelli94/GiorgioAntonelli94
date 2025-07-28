@@ -68,6 +68,9 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le competenze in ambi
 
 ---
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuo-username&show_icons=true&theme=radical)
+
+
 ## 💼 Posizioni Aperte
 
 > 🔹 [Junior Salesforce Developer – Genova](https://it.indeed.com/job/junior-salesforce-developer-genova-60fe8b80f9c497f9)  
