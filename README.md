@@ -54,12 +54,6 @@ Seleziono profili IT altamente specializzati nei seguenti ambiti tecnologici:
 Fondata a Torino nel 2003, **inRebus Technologies** è una software house e società di consulenza IT.  
 Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le competenze in ambito digitale e PA.
 
-### 🔧 Specializzazioni:
-- **Software Factory**: CRM, CMS, ERP, DWH, Dashboard personalizzate  
-- **Digital Learning**: Soluzioni e-learning personalizzate e gamificate
-
----
-
 ## 💡 Servizi Offerti
 
 🔹 [**Software Factory**](https://www.inrebus.it/)
@@ -75,12 +69,6 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le competenze in ambi
 - Video interattivi e test di valutazione
 
 ---
-
-
-
-
-
-
 
 ## 💼 Posizioni Aperte
 
