@@ -19,7 +19,8 @@
 
 ### 📫 Contatti
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giorgio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgio-antonelli-1b9152245/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giorgio-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuo-profilo)
+
 [![Email](https://img.shields.io/badge/Email-giorgio.antonelli@inrebus.it-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giorgio.antonelli@inrebus.it)
 
 ## 📊 Le mie statistiche GitHub
