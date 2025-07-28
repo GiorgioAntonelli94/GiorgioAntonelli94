@@ -19,7 +19,15 @@
 
 ### 📫 Contatti
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giorgio-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuo-profilo)
+<p align="left">
+  <a href="https://github.com/GiorgioAntonelli94" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/giorgio-antonelli-1b9152245/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+</p>
+
 
 [![Email](https://img.shields.io/badge/Email-giorgio.antonelli@inrebus.it-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giorgio.antonelli@inrebus.it)
 
