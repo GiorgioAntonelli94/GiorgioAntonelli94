@@ -3,7 +3,7 @@
 
 # 👋 Benvenuto sul mio Profilo GitHub | Junior HR Recruiter
 
-Ciao! Sono **Giorgio Antonelli**, Junior HR Recruiter presso **inRebus Technologies**, parte del  **Gruppo FOS S.p.A.**. Mi occupo della ricerca e selezione di talenti nell’ambito IT, contribuendo alla crescita di aziende innovative con i migliori professionisti del settore.
+Ciao! Sono **Giorgio Antonelli**, Full Stack & Social Media Recruiter | Talent Acquisition presso **inRebus Technologies**, parte del  **Gruppo FOS S.p.A.**. Mi occupo della ricerca e selezione di talenti nell’ambito IT, contribuendo alla crescita di aziende innovative con i migliori professionisti del settore.
 
 ## 📞 Contatti
 - **Email**: [giorgio.antonelli@inrebus.it](mailto:giorgio.antonelli@inrebus.it)  
