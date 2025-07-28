@@ -1,65 +1,85 @@
 
 ![InRebus Technologies](https://github.com/GiorgioAntonelli94/GiorgioAntonelli94/blob/7017faa9712a4348b04f3e7119829ae204ac30fc/loghi.jpg)
 
-# 👋 Benvenuto sul mio Profilo GitHub | Junior HR Recruiter
 
-Ciao! Sono **Giorgio Antonelli**, Full Stack & Social Media Recruiter | Talent Acquisition presso **inRebus Technologies**, parte del  **Gruppo FOS S.p.A.**. Mi occupo della ricerca e selezione di talenti nell’ambito IT, contribuendo alla crescita di aziende innovative con i migliori professionisti del settore.
+<h1 align="center">👋 Ciao, sono Giorgio!</h1>
 
-## 📞 Contatti
-- **Email**: [giorgio.antonelli@inrebus.it](mailto:giorgio.antonelli@inrebus.it)  
-- **LinkedIn**: [Giorgio Antonelli](https://www.linkedin.com/in/giorgioantonelli)  
-- **Sito Web Aziendale**: [inRebus Technologies](https://www.inrebus.it)  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&repeat=true&lines=Full+Stack+and+Social+Media+Recruiter;Talent+Acquisition+at+inRebus+Technologies;Part+of+the+FOS+Group" alt="Typing SVG" />
+</p>
+
+---
+
+🎯 **Chi sono**  
+> Full Stack & Social Media Recruiter | Talent Acquisition presso **inRebus Technologies**, parte del **Gruppo FOS S.p.A.**  
+> Mi occupo della **ricerca e selezione di talenti IT**, contribuendo alla crescita di aziende innovative con i migliori professionisti del settore.
+
+---
+
+### 📫 Contatti
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Giorgio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgioantonelli)
+[![Email](https://img.shields.io/badge/Email-giorgio.antonelli@inrebus.it-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giorgio.antonelli@inrebus.it)
+
+---
 
 ### 🏢 Sede Operativa
-**inRebus Technologies Srl | Società del Gruppo FOS**
+**inRebus Technologies Srl | Società del Gruppo FOS**  
+📍 Torino, TO  
+💻 Servizi IT e Consulenza IT  
 
-📍 **Torino, TO**  
-💻 **Servizi IT e Consulenza IT**  
+---
 
 ## 🔍 Ambiti di Ricerca
 Seleziono profili IT altamente specializzati nei seguenti ambiti tecnologici:
-- **Linguaggi di Programmazione**: Java, Python, PHP, .Net, C#, Javascript
-- **Framework e Tecnologie**: Angular, ReactJS, Ionic, Moodle, NodeJS
-- **DevOps e Cloud**: Kubernetes, Docker
-- **Metodologie Agile**: DevOps-oriented professionals
+
+- **Linguaggi**: Java, Python, PHP, .Net, C#, Javascript  
+- **Framework**: Angular, ReactJS, Ionic, Moodle, NodeJS  
+- **DevOps & Cloud**: Kubernetes, Docker  
+- **Agile**: DevOps-oriented professionals
+
+---
 
 ## 📈 Chi è inRebus Technologies?
 
-Fondata a Torino nel 2003, **inRebus Technologies** è una software house e una società di consulenza IT con una lunga storia nel settore informatico. Siamo specializzati in:
-- **Software Factory**: Soluzioni digitali personalizzate (CRM, CMS, ERP, DWH, Dashboard).
-- **Digital Learning**: Progetti innovativi di formazione digitale, da video interattivi a piattaforme personalizzate.
+Fondata a Torino nel 2003, **inRebus Technologies** è una software house e società di consulenza IT.  
+Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le competenze in ambito digitale e PA.
 
-Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze in progettazione e sviluppo di prodotti e servizi digitali per grandi aziende e pubblica amministrazione.
+### 🔧 Specializzazioni:
+- **Software Factory**: CRM, CMS, ERP, DWH, Dashboard personalizzate  
+- **Digital Learning**: Soluzioni e-learning personalizzate e gamificate
 
+---
 
 ## 💡 Servizi Offerti
-[Software Factory](https://www.inrebus.it/)
-- Architetture software e design
-- Sviluppo di Web App e Mobile App responsive
-- Integrazione CMS/CRM avanzati
-- Progettazione DWH e dashboard dati aziendali
 
-[Digital Learning](https://www.inrebus.education/)
-- Formazione tecnica e commerciale su misura
-- Progetti di gamification per il learning
-- Sviluppo LMS personalizzati (Moodle, WordPress)
-- Video-lezioni interattive e strumenti di assessment
+🔹 [**Software Factory**](https://www.inrebus.it/)
+- Architetture software e design
+- Web e Mobile App
+- Integrazione avanzata CMS/CRM
+- Progettazione DWH e dashboard
+
+🔹 [**Digital Learning**](https://www.inrebus.education/)
+- Formazione tecnica e commerciale
+- Gamification
+- LMS su misura (Moodle, WordPress)
+- Video interattivi e test di valutazione
 
 ---
 
 ## 💼 Posizioni Aperte
 
-[Junior Salesforce developer Genova](https://it.indeed.com/job/junior-salesforce-developer-genova-60fe8b80f9c497f9)
+> 🔹 [Junior Salesforce Developer – Genova](https://it.indeed.com/job/junior-salesforce-developer-genova-60fe8b80f9c497f9)  
+> 🔹 [Moodle Developer – Roma, Ibrido](https://zinrec.intervieweb.it/gruppofos/jobs/moodle-developer-roma-ibrido-81199/it/)  
+> 🔹 [Analista Funzionale & ETRM Specialist](https://it.indeed.com/job/analista-funzionale-etrm-specialist-energy-trading-and-risk-management-specialist-2dc6732380b4f341)
 
-[Moodle Developer Roma, Ibrido](https://zinrec.intervieweb.it/gruppofos/jobs/moodle-developer-roma-ibrido-81199/it/)
-
-[Analista Funzionale & ETRM Specialist-Energy Trading and Risk Management Specialist](https://it.indeed.com/job/analista-funzionale-etrm-specialist-energy-trading-and-risk-management-specialist-2dc6732380b4f341)
-
-
+---
 
 📧 **Candidature**: [hrm@inrebus.it](mailto:hrm@inrebus.it)
 
-[![Career](https://img.shields.io/badge/Career-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://zinrec.intervieweb.it/gruppofos/it/career)  
+[![Lavora con Noi](https://img.shields.io/badge/Career-Zona%20Recruiting-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://zinrec.intervieweb.it/gruppofos/it/career)
+
+---
 
 ## 🌟 Skills e Tecnologie
 
@@ -102,5 +122,6 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le nostre competenze 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 
