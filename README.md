@@ -76,8 +76,6 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le competenze in ambi
 
 ---
 
-📧 **Candidature**: [hrm@inrebus.it](mailto:hrm@inrebus.it)
-
 [![Lavora con Noi](https://img.shields.io/badge/Career-Zona%20Recruiting-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://zinrec.intervieweb.it/gruppofos/it/career)
 
 ---
