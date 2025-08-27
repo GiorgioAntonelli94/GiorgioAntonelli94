@@ -75,8 +75,10 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le competenze in ambi
 
 ## 💼 Posizioni Aperte
 
-> 🔹 [Junior Salesforce Developer – Genova](https://it.indeed.com/job/junior-salesforce-developer-genova-60fe8b80f9c497f9)  
+> 🔹 [Junior Salesforce Developer – Genova](https://it.indeed.com/job/junior-salesforce-developer-genova-60fe8b80f9c497f9)
+> 
 > 🔹 [Analista Funzionale & ETRM Specialist](https://it.indeed.com/job/analista-funzionale-etrm-specialist-energy-trading-and-risk-management-specialist-2dc6732380b4f341)
+> 
 > 🔹 [Analista programmatore Angular Full-remote](https://it.indeed.com/job/analista-programmatoreprogrammatrice-angular-full-remote-c615fb2f8d5f45b9)
 ---
 
