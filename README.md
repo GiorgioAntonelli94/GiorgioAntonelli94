@@ -75,7 +75,7 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le competenze in ambi
 
 ## 💼 Posizioni Aperte
 
-> 🔹 [Junior Salesforce Developer – Genova](https://it.indeed.com/job/junior-salesforce-developer-genova-60fe8b80f9c497f9)
+> 🔹 [Full Stack Developer Java-VueJS Genova](https://it.indeed.com/viewjob?jk=1fd58d5ff3533176&from=shareddesktop_copy)
 > 
 > 🔹 [Junior Full-Stack Developer (Genova)](https://it.indeed.com/job/junior-full-stack-developer-genova-398906ff9636b5a5)
 > 
