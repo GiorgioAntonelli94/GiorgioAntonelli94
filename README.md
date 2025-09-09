@@ -76,6 +76,8 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le competenze in ambi
 ## 💼 Posizioni Aperte
 
 > 🔹 [Full Stack Developer Java-VueJS Genova](https://it.indeed.com/viewjob?jk=1fd58d5ff3533176&from=shareddesktop_copy)
+>
+> 🔹 [Azure Architect full-remote](https://it.indeed.com/job/azure-architect-full-remote-4bb28528e7225bbd)
 > 
 > 🔹 [Junior Full-Stack Developer (Genova)](https://it.indeed.com/job/junior-full-stack-developer-genova-398906ff9636b5a5)
 > 
