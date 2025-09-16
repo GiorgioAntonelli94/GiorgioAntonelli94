@@ -83,7 +83,7 @@ Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le competenze in ambi
 > 
 > 🔹 [Analista programmatore Angular Full-remote](https://it.indeed.com/job/analista-programmatoreprogrammatrice-angular-full-remote-c615fb2f8d5f45b9)
 > 
-> 🔹 [Sistemista TLC (Milano)](https://it.indeed.com/job/sistemista-tlc-milano-a7c0e710508c80eb)
+> 🔹 [System & Network Support Engineer Genova + Trasferte](https://zinrec.intervieweb.it/gruppofos/jobs/system-network-support-engineer-genova-trasferte-88234/it/)
 >
 > 🔹 [Network Engineer - Piossasco TO](https://zinrec.intervieweb.it/gruppofos/jobs/network-engineer-piossasco-to-86639/it/)
 
