@@ -55,7 +55,7 @@
 ## 📈 Chi è inRebus Technologies?
 
 Fondata a Torino nel 2003, **inRebus Technologies** è una software house e società di consulenza IT.  
-Dal 2020, siamo parte del gruppo **FOS S.p.A.**, ampliando le competenze in ambito digitale e PA.
+Dal 2020, siamo parte del **Gruppo FOS S.p.A.**  , ampliando le competenze in ambito digitale e PA.
 
 ## 💡 Servizi Offerti
 
