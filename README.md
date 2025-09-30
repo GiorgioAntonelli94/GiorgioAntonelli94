@@ -80,6 +80,10 @@ Dal 2020, siamo parte del **Gruppo FOS S.p.A.**  , ampliando le competenze in am
 > 🔹 [System & Network Support Engineer Genova + Trasferte](https://zinrec.intervieweb.it/gruppofos/jobs/system-network-support-engineer-genova-trasferte-88234/it/)
 >
 > 🔹 [Network Engineer - Piossasco TO](https://zinrec.intervieweb.it/gruppofos/jobs/network-engineer-piossasco-to-86639/it/)
+>
+> 🔹 [Senior C# developer Genova](https://it.indeed.com/job/senior-c-developer-genova-83bb38a923db4d7f)
+> 
+> 🔹 [Junior C# Developer Genova](https://it.indeed.com/job/junior-c-developer-genova-50a7d40d2e7f3e52)
 
 
 ---
