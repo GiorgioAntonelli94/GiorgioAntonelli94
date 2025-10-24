@@ -75,8 +75,6 @@ Dal 2020, siamo parte del **Gruppo FOS S.p.A.**  , ampliando le competenze in am
 
 ## 💼 Posizioni Aperte
 
-> 🔹 [Tirocinante extracurricolare Mendix developer-Genova](https://zinrec.intervieweb.it/gruppofos/jobs/tirocinante-extracurricolare-mendix-developer-genova-91122/it/)
->
 > 🔹 [Business Analyst-Genova](https://it.indeed.com/job/business-analyst-genova-28806224e7d6daac)
 >
 > 🔹 [Ingegnere Navale Junior – Sviluppo Software e Progettazione-Genova](https://zinrec.intervieweb.it/gruppofos/jobs/ingegnere-navale-junior-sviluppo-software-e-progettazione-genova-91127/it/)
