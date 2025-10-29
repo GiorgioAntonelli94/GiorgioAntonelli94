@@ -2,7 +2,7 @@
 ![InRebus Technologies](https://github.com/GiorgioAntonelli94/GiorgioAntonelli94/blob/7017faa9712a4348b04f3e7119829ae204ac30fc/loghi.jpg)
 
 
-<h1 align="center">👋 Ciao, sono Giorgio!</h1>
+<h1 align="center">👋 Hi, i am Giorgio!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&repeat=true&color=FFA500&lines=Full+Stack+and+Social+Media+Recruiter;Talent+Acquisition+at+inRebus+Technologies;Part+of+the+FOS+Group" alt="Typing SVG" />
