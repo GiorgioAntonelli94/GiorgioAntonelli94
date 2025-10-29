@@ -11,9 +11,23 @@
 
 ---
 
-🎯 **Chi sono**  
-> Full Stack & Social Media Recruiter | Talent Acquisition presso **inRebus Technologies**, parte del **Gruppo FOS S.p.A.**  
-> Mi occupo di ricerca e selezione di profili IT: Developers, Analisti, Sistemisti, Data Specialist… ma anche talenti creativi, specialmente nel settore del digital learning!
+🎯 **Hi there! **  
+
+I’m Giorgio a Full Stack & Social Media Recruiter passionate about connecting people, technology, and ideas.
+
+At inRebus Technologies (FOS Group) I support both companies and professionals in their digital and human growth. I specialize in recruiting IT profiles: Developers, Analysts, System Engineers, Data Specialists as well as creative talents in the digital learning sector.
+
+My approach?
+
+Combining strategy and empathy, data and intuition, technology and culture.
+I manage every step of the recruitment process from defining the hiring strategy to conducting interviews with a personalized and human touch.
+At the same time, I leverage social media as a powerful tool to attract, engage, and connect with the right people. Storytelling, employer branding, and community-building are key elements of my work.
+
+Avid reader 📖, Magic the Gathering player🎴, and lifelong learner I believe that curiosity is the true engine of innovation. 
+🧙‍♂️ Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and exploring tech communities on GitHub 🐙 where creativity and logic meet.
+
+If you work in tech, digital learning, or talent acquisition, I’d love to connect and exchange ideas 
+📩 giorgio.antonelli@inrebus.it
 
 
 
