@@ -1,37 +1,34 @@
-
 ![InRebus Technologies](https://github.com/GiorgioAntonelli94/GiorgioAntonelli94/blob/7017faa9712a4348b04f3e7119829ae204ac30fc/loghi.jpg)
 
-
-<h1 align="center">👋 Hi, i am Giorgio!</h1>
+<h1 align="center">👋 Hi, I am Giorgio!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&repeat=true&color=FFA500&lines=Full+Stack+and+Social+Media+Recruiter;Talent+Acquisition+at+inRebus+Technologies;Part+of+the+FOS+Group" alt="Typing SVG" />
 </p>
 
-
 ---
 
 🎯 **Hi there!**  
 
-I’m Giorgio a Full Stack & Social Media Recruiter passionate about connecting people, technology, and ideas.
+I’m Giorgio, a Full Stack & Social Media Recruiter passionate about connecting people, technology, and ideas.
 
-At inRebus Technologies (FOS Group) I support both companies and professionals in their digital and human growth. I specialize in recruiting IT profiles: Developers, Analysts, System Engineers, Data Specialists as well as creative talents in the digital learning sector.
+At inRebus Technologies (FOS Group) I support both companies and professionals in their digital and human growth. I specialize in recruiting IT profiles: Developers, Analysts, System Engineers, Data Specialists, as well as creative talents in the digital learning sector.
 
-My approach?
+**My approach?**
 
-Combining strategy and empathy, data and intuition, technology and culture.
-I manage every step of the recruitment process from defining the hiring strategy to conducting interviews with a personalized and human touch.
+Combining strategy and empathy, data and intuition, technology and culture.  
+I manage every step of the recruitment process — from defining the hiring strategy to conducting interviews — with a personalized and human touch.  
 At the same time, I leverage social media as a powerful tool to attract, engage, and connect with the right people. Storytelling, employer branding, and community-building are key elements of my work.
 
-Avid reader 📖, Magic the Gathering player🎴, and lifelong learner I believe that curiosity is the true engine of innovation. 
+Avid reader 📖, Magic the Gathering player 🎴, and lifelong learner — I believe that curiosity is the true engine of innovation.  
 🧙‍♂️ Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and exploring tech communities on GitHub 🐙 where creativity and logic meet.
 
-If you work in tech, digital learning, or talent acquisition, I’d love to connect and exchange ideas 
+If you work in tech, digital learning, or talent acquisition, I’d love to connect and exchange ideas.  
 📩 giorgio.antonelli@inrebus.it
 
+---
 
-
-### 📫 Contatti
+### 📫 Contacts
 
 <p align="left">
   <a href="https://github.com/GiorgioAntonelli94" target="_blank" rel="noreferrer">
@@ -45,8 +42,9 @@ If you work in tech, digital learning, or talent acquisition, I’d love to conn
   </a>
 </p>
 
+---
 
-## 📊 Le mie statistiche GitHub
+## 📊 My GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgioantonelli&show_icons=true&theme=radical)
 
@@ -58,36 +56,39 @@ If you work in tech, digital learning, or talent acquisition, I’d love to conn
   <img height="160" align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=GiorgioAntonelli94&theme=dark" alt="GitHub Streak" />
 </a>
 
+---
 
-### 🏢 Sede Operativa
-**inRebus Technologies Srl | Società del Gruppo FOS**  
-📍 Torino, TO  
-💻 Servizi IT e Consulenza IT  
+### 🏢 Headquarters
+**inRebus Technologies Srl | Part of FOS Group**  
+📍 Turin, Italy  
+💻 IT Services and Consulting  
 
 ---
 
-## 📈 Chi è inRebus Technologies?
+## 📈 About inRebus Technologies
 
-Fondata a Torino nel 2003, **inRebus Technologies** è una software house e società di consulenza IT.  
-Dal 2020, siamo parte del **Gruppo FOS S.p.A.**  , ampliando le competenze in ambito digitale e PA.
+Founded in Turin in 2003, **inRebus Technologies** is a software house and IT consulting company.  
+Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise in digital and public administration fields.
 
-## 💡 Servizi Offerti
+---
+
+## 💡 Offered Services
 
 🔹 [**Software Factory**](https://www.inrebus.it/)
-- Architetture software e design
-- Web e Mobile App
-- Integrazione avanzata CMS/CRM
-- Progettazione DWH e dashboard
+- Software architecture and design  
+- Web and Mobile App  
+- Advanced CMS/CRM integration  
+- DWH and dashboard design  
 
 🔹 [**Digital Learning**](https://www.inrebus.education/)
-- Formazione tecnica e commerciale
-- Gamification
-- LMS su misura (Moodle, WordPress)
-- Video interattivi e test di valutazione
+- Technical and commercial training  
+- Gamification  
+- Custom LMS (Moodle, WordPress)  
+- Interactive videos and evaluation tests  
 
 ---
 
-## 💼 Posizioni Aperte
+## 💼 Open Positions
 
 > 🔹 [Business Analyst-Genova](https://it.indeed.com/job/business-analyst-genova-28806224e7d6daac)
 >
@@ -103,16 +104,15 @@ Dal 2020, siamo parte del **Gruppo FOS S.p.A.**  , ampliando le competenze in am
 > 
 > 🔹 [Junior C# Developer Genova](https://it.indeed.com/job/junior-c-developer-genova-50a7d40d2e7f3e52)
 
+---
+
+[![Work with Us](https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://zinrec.intervieweb.it/gruppofos/it/career)
 
 ---
 
-[![Lavora con Noi](https://img.shields.io/badge/Career-Zona%20Recruiting-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://zinrec.intervieweb.it/gruppofos/it/career)
+## 🌟 Skills and Technologies
 
----
-
-## 🌟 Skills e Tecnologie
-
-### **Linguaggi di Programmazione e Framework**
+### **Programming Languages and Frameworks**
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -126,13 +126,13 @@ Dal 2020, siamo parte del **Gruppo FOS S.p.A.**  , ampliando le competenze in am
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-### **Database e Machine Learning**
+### **Database and Machine Learning**
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### **DevOps e Versioning**
+### **DevOps and Versioning**
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -146,11 +146,8 @@ Dal 2020, siamo parte del **Gruppo FOS S.p.A.**  , ampliando le competenze in am
 ![Moodle](https://img.shields.io/badge/Moodle-FF9900?style=for-the-badge&logo=moodle&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
-### **Design e Frontend**
+### **Design and Frontend**
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-
-
