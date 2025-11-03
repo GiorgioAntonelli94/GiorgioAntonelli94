@@ -93,14 +93,10 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 > 🔹 [Business Analyst-Genova](https://it.indeed.com/job/business-analyst-genova-28806224e7d6daac)
 >
 > 🔹 [Ingegnere Navale Junior – Sviluppo Software e Progettazione-Genova](https://zinrec.intervieweb.it/gruppofos/jobs/ingegnere-navale-junior-sviluppo-software-e-progettazione-genova-91127/it/)
->
-> 🔹 [Azure Architect full-remote](https://it.indeed.com/job/azure-architect-full-remote-4bb28528e7225bbd)
 > 
 > 🔹 [System & Network Support Engineer Genova + Trasferte](https://zinrec.intervieweb.it/gruppofos/jobs/system-network-support-engineer-genova-trasferte-88234/it/)
 >
 > 🔹 [Network Engineer - Piossasco TO](https://zinrec.intervieweb.it/gruppofos/jobs/network-engineer-piossasco-to-86639/it/)
->
-> 🔹 [Senior C# developer Genova](https://it.indeed.com/job/senior-c-developer-genova-83bb38a923db4d7f)
 > 
 > 🔹 [Junior C# Developer Genova](https://it.indeed.com/job/junior-c-developer-genova-50a7d40d2e7f3e52)
 
