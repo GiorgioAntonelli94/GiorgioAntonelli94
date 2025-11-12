@@ -90,15 +90,15 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 
 ## 💼 Open Positions
 
+>🔹 [Full-Stack Developer Torino](https://zinrec.intervieweb.it/gruppofos/jobs/fullstack-developer-torino-96354/it/)
+>
+>🔹 [Analista funzionale Torino](https://zinrec.intervieweb.it/gruppofos/jobs/analista-funzionale-torino-96138/it/)
+>
 >🔹 [Junior Help Desk part-time 4h Torino](https://it.indeed.com/job/junior-help-desk-part-time-4h-torino-5ddb1864340055b1)
 >
 >🔹 [Business Analyst-Genova](https://it.indeed.com/job/business-analyst-genova-28806224e7d6daac)
 >
 >🔹 [Ingegnere Navale Junior – Sviluppo Software e Progettazione-Genova](https://zinrec.intervieweb.it/gruppofos/jobs/ingegnere-navale-junior-sviluppo-software-e-progettazione-genova-91127/it/)
-> 
->🔹 [System & Network Support Engineer Genova + Trasferte](https://zinrec.intervieweb.it/gruppofos/jobs/system-network-support-engineer-genova-trasferte-88234/it/)
->
->🔹 [Network Engineer - Piossasco TO](https://zinrec.intervieweb.it/gruppofos/jobs/network-engineer-piossasco-to-86639/it/)
 > 
 >🔹 [Junior C# Developer Genova](https://it.indeed.com/job/junior-c-developer-genova-50a7d40d2e7f3e52)
 
