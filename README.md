@@ -94,6 +94,8 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 >
 >🔹 [Analista funzionale Torino](https://zinrec.intervieweb.it/gruppofos/jobs/analista-funzionale-torino-96138/it/)
 >
+>🔹 [Junior Software Tester Torino](https://it.indeed.com/job/junior-software-tester-torino-6ce81f542787b395)
+>
 >🔹 [Junior Help Desk part-time 4h Torino](https://it.indeed.com/job/junior-help-desk-part-time-4h-torino-5ddb1864340055b1)
 >
 >🔹 [Business Analyst-Genova](https://it.indeed.com/job/business-analyst-genova-28806224e7d6daac)
