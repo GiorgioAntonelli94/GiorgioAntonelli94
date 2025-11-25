@@ -90,6 +90,8 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 
 ## 💼 Open Positions
 
+>🔹 [Sviluppatore di test automatici Genova](https://it.indeed.com/job/sviluppatore-di-test-automatici-genova-63895ebbea905dae)
+>
 >🔹 [Full-Stack Developer Torino](https://zinrec.intervieweb.it/gruppofos/jobs/fullstack-developer-torino-96354/it/)
 >
 >🔹 [Analista funzionale Torino](https://zinrec.intervieweb.it/gruppofos/jobs/analista-funzionale-torino-96138/it/)
