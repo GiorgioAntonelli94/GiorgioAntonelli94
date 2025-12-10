@@ -94,11 +94,9 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 >
 >🔹 [Full-Stack Developer Torino](https://zinrec.intervieweb.it/gruppofos/jobs/fullstack-developer-torino-96354/it/)
 >
->🔹 [Analista funzionale Torino](https://zinrec.intervieweb.it/gruppofos/jobs/analista-funzionale-torino-96138/it/)
+>🔹 [Oracle APEX Developer Full-Remote](https://it.indeed.com/job/oracle-apex-developer-full-remote-8b5c2a28e694ced0)
 >
 >🔹 [Junior Software Tester Torino](https://it.indeed.com/job/junior-software-tester-torino-6ce81f542787b395)
->
->🔹 [Junior Help Desk part-time 4h Torino](https://it.indeed.com/job/junior-help-desk-part-time-4h-torino-5ddb1864340055b1)
 >
 >🔹 [Business Analyst-Genova](https://it.indeed.com/job/business-analyst-genova-28806224e7d6daac)
 >
