@@ -90,19 +90,10 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 
 ## 💼 Open Positions
 
->🔹 [Sviluppatore di test automatici Genova](https://it.indeed.com/job/sviluppatore-di-test-automatici-genova-63895ebbea905dae)
+>🔹 [Analista Funzionale – FPAD & VOP](https://it.indeed.com/job/analista-funzionale-fpad-vop-16c510c8a8390b17))
 >
->🔹 [Full-Stack Developer Torino](https://zinrec.intervieweb.it/gruppofos/jobs/fullstack-developer-torino-96354/it/)
+>🔹 [Analista Funzionale – SEPA Services](https://it.indeed.com/job/analista-funzionale-sepa-services-6e215e86c6fde3ac))
 >
->🔹 [Oracle APEX Developer Full-Remote](https://it.indeed.com/job/oracle-apex-developer-full-remote-8b5c2a28e694ced0)
->
->🔹 [Junior Software Tester Torino](https://it.indeed.com/job/junior-software-tester-torino-6ce81f542787b395)
->
->🔹 [Business Analyst-Genova](https://it.indeed.com/job/business-analyst-genova-28806224e7d6daac)
->
->🔹 [Ingegnere Navale Junior – Sviluppo Software e Progettazione-Genova](https://zinrec.intervieweb.it/gruppofos/jobs/ingegnere-navale-junior-sviluppo-software-e-progettazione-genova-91127/it/)
-> 
->🔹 [Junior C# Developer Genova](https://it.indeed.com/job/junior-c-developer-genova-50a7d40d2e7f3e52)
 
 ---
 
