@@ -94,6 +94,16 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 >
 >🔹 [Analista Funzionale – SEPA Services](https://it.indeed.com/job/analista-funzionale-sepa-services-6e215e86c6fde3ac))
 >
+>🔹 [Sviluppatore di test automatici-Genova](https://it.indeed.com/job/sviluppatore-di-test-automatici-genova-63895ebbea905dae))
+>
+>🔹 [Senior Microsoft System Administrator- Piossasco]([https://it.indeed.com/job/analista-funzionale-sepa-services-6e215e86c6fde3ac]
+>
+>🔹 [Java-React Developer (Genova)](https://it.indeed.com/job/java-react-developer-genova-33adc82b1764a441)]
+>
+>🔹 [Analista funzionale Genova](https://it.indeed.com/job/business-analyst-genova-28806224e7d6daac)
+
+
+
 
 ---
 
