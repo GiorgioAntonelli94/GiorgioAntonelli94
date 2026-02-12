@@ -90,6 +90,8 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 
 ## 💼 Open Positions
 
+>🔹[Junior C++/Python Developer](https://it.indeed.com/job/junior-cpython-developer-a35842819aee5635)
+>
 >🔹 [Analista Funzionale – FPAD & VOP](https://it.indeed.com/job/analista-funzionale-fpad-vop-16c510c8a8390b17))
 >
 >🔹 [Analista Funzionale – SEPA Services](https://it.indeed.com/job/analista-funzionale-sepa-services-6e215e86c6fde3ac))
