@@ -44,11 +44,6 @@ If you work in tech, digital learning, or talent acquisition, I’d love to conn
 
 ---
 
-## 📊 My GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=giorgioantonelli&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giorgioantonelli&layout=compact&theme=radical)
 
 ### 🔥 GitHub Streak
 
