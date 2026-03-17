@@ -85,11 +85,9 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 
 ## 💼 Open Positions
 
->🔹[Junior C++/Python Developer](https://it.indeed.com/job/junior-cpython-developer-a35842819aee5635)
+>🔹 [EMBEDDED Developer (Genova)](https://it.indeed.com/job/embedded-developer-genova-b2d581c9d05af0f9)
 >
->🔹 [Analista Funzionale – FPAD & VOP](https://it.indeed.com/job/analista-funzionale-fpad-vop-16c510c8a8390b17))
->
->🔹 [Analista Funzionale – SEPA Services](https://it.indeed.com/job/analista-funzionale-sepa-services-6e215e86c6fde3ac))
+>🔹 [.NET/C# Developer (Genova)](https://it.indeed.com/job/netc-developer-genova-ad1a2e541a0d90e0)
 >
 >🔹 [Sviluppatore di test automatici-Genova](https://it.indeed.com/job/sviluppatore-di-test-automatici-genova-63895ebbea905dae))
 >
@@ -97,8 +95,6 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 >
 >🔹 [Java-React Developer (Genova)](https://it.indeed.com/job/java-react-developer-genova-33adc82b1764a441)]
 >
->🔹 [Analista funzionale Genova](https://it.indeed.com/job/business-analyst-genova-28806224e7d6daac)
-
 
 
 
