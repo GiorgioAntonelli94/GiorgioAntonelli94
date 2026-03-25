@@ -44,7 +44,6 @@ If you work in tech, digital learning, or talent acquisition, I’d love to conn
 
 ---
 
-
 ### 🔥 GitHub Streak
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -52,34 +51,33 @@ If you work in tech, digital learning, or talent acquisition, I’d love to conn
 </a>
 
 ---
-
-### 🏢 Headquarters
-**inRebus Technologies Srl | Part of FOS Group**  
-📍 Turin, Italy  
-💻 IT Services and Consulting  
-
----
-
 ## 📈 About inRebus Technologies
 
 Founded in Turin in 2003, **inRebus Technologies** is a software house and IT consulting company.  
 Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise in digital and public administration fields.
 
----
-
 ## 💡 Offered Services
 
 🔹 [**Software Factory**](https://www.inrebus.it/)
-- Software architecture and design  
-- Web and Mobile App  
-- Advanced CMS/CRM integration  
-- DWH and dashboard design  
 
 🔹 [**Digital Learning**](https://www.inrebus.education/)
-- Technical and commercial training  
-- Gamification  
-- Custom LMS (Moodle, WordPress)  
-- Interactive videos and evaluation tests  
+  
+---
+
+## 📈 About FOS Group
+
+Gruppo FOS is an innovative technology hub dedicated to Italian polytechnic excellence with a global reach. With over 25 years of experience in ICT, the Group integrates specialized skills across Automation, Telecommunications, and Engineering
+
+[![Work with Us](https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://zinrec.intervieweb.it/gruppofos/it/career)
+
+Join the Team! Apply now on our website: [https://www.gruppofos.it/lavora-noi/]
+
+
+## 📈 About Audensiel
+
+Audensiel is a global digital transformation partner specializing in high-tech and business consulting across sectors like Banking, Healthcare, and Industry. They deliver end-to-end Digital and Cloud/DevOps solutions using Agile methodologies, while leveraging Data, AI, and IoT to build complex interconnected systems. Their expertise extends to robust Cybersecurity auditing and strategic IT governance. They are currently hiring to support their rapid international growth.
+
+Join the Team! Apply now on our website: [https://www.audensiel.com/jobs]
 
 ---
 
@@ -96,52 +94,9 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 >🔹 [Java-React Developer (Genova)](https://it.indeed.com/job/java-react-developer-genova-33adc82b1764a441)]
 >
 
-
-
 ---
 
 [![Work with Us](https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://zinrec.intervieweb.it/gruppofos/it/career)
 
 ---
 
-## 🌟 Skills and Technologies
-
-### **Programming Languages and Frameworks**
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Ionic Framework](https://img.shields.io/badge/Ionic_Framework-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-### **Database and Machine Learning**
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-### **DevOps and Versioning**
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-239120?style=for-the-badge&logo=devops&logoColor=white)
-
-### **Digital Learning Tools**
-![Articulate Storyline](https://img.shields.io/badge/Articulate%20Storyline-360-blue)
-![iSpring Designer](https://img.shields.io/badge/iSpring%20Designer-11-orange)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Moodle](https://img.shields.io/badge/Moodle-FF9900?style=for-the-badge&logo=moodle&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-### **Design and Frontend**
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
