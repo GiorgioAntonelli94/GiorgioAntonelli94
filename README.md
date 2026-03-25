@@ -92,7 +92,4 @@ Join the Team! Apply now on our website: [https://www.audensiel.com/jobs]
 
 ---
 
-[![Work with Us](https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://zinrec.intervieweb.it/gruppofos/it/career)
-
----
 
