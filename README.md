@@ -24,23 +24,19 @@ Avid reader 📖, Magic the Gathering player 🎴, and lifelong learner — I be
 🧙‍♂️ Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and exploring tech communities on GitHub 🐙 where creativity and logic meet.
 
 If you work in tech, digital learning, or talent acquisition, I’d love to connect and exchange ideas.  
-📩 giorgio.antonelli@inrebus.it
+
+
 
 ---
 
 ### 📫 Contacts
 
-<p align="left">
-  <a href="https://github.com/GiorgioAntonelli94" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
+📩 giorgio.antonelli@inrebus.it
+
   <a href="https://www.linkedin.com/in/giorgio-antonelli-1b9152245/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
-  <a href="mailto:giorgio.antonelli@inrebus.it" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="32" height="32" />
-  </a>
-</p>
+  
 
 ---
 
