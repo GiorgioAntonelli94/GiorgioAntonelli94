@@ -57,6 +57,8 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 🔹 [**Software Factory**](https://www.inrebus.it/)
 
 🔹 [**Digital Learning**](https://www.inrebus.education/)
+
+![Job Board ](https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-/)
   
 ---
 
@@ -86,9 +88,6 @@ Join the Team! Apply now on our website: [https://www.audensiel.com/jobs]
 >🔹 [Sviluppatore di test automatici-Genova](https://it.indeed.com/job/sviluppatore-di-test-automatici-genova-63895ebbea905dae))
 >
 >🔹 [Senior Microsoft System Administrator- Piossasco](https://it.indeed.com/job/senior-microsoft-system-administrator-piossasco-1adcef4b84f1db5d)
->
->🔹 [Java-React Developer (Genova)](https://it.indeed.com/job/java-react-developer-genova-33adc82b1764a441)]
->
 
 ---
 
