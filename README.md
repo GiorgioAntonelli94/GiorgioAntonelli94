@@ -58,8 +58,7 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 
 🔹 [**Digital Learning**](https://www.inrebus.education/)
 
-![Job Board ](https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-/)
-  
+[![Job Board ](https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-/)
 ---
 
 ## 📈 About FOS Group
