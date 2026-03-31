@@ -47,7 +47,7 @@ If you work in tech, digital learning, or talent acquisition, I’d love to conn
 </a>
 
 ---
-## 📈 About inRebus Technologies
+##  🟩⬜🟥 About inRebus Technologies 🟩⬜🟥
 
 Founded in Turin in 2003, **inRebus Technologies** is a software house and IT consulting company.  
 Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise in digital and public administration fields.
@@ -61,7 +61,7 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 [![Job Board ](https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-/)
 ---
 
-## 📈 About FOS Group
+## 🟩⬜🟥 About FOS Group 🟩⬜🟥
 
 Gruppo FOS is an innovative technology hub dedicated to Italian polytechnic excellence with a global reach. With over 25 years of experience in ICT, the Group integrates specialized skills across Automation, Telecommunications, and Engineering
 
@@ -70,7 +70,7 @@ Gruppo FOS is an innovative technology hub dedicated to Italian polytechnic exce
 Join the Team! Apply now on our website: [https://www.gruppofos.it/lavora-noi/]
 
 
-## 📈 About Audensiel
+## 🌍🟦⬜🟥🌎 About Audensiel 🌎🟦⬜🟥🌍
 
 Audensiel is a global digital transformation partner specializing in high-tech and business consulting across sectors like Banking, Healthcare, and Industry. They deliver end-to-end Digital and Cloud/DevOps solutions using Agile methodologies, while leveraging Data, AI, and IoT to build complex interconnected systems. Their expertise extends to robust Cybersecurity auditing and strategic IT governance. They are currently hiring to support their rapid international growth.
 
