@@ -47,7 +47,7 @@ If you work in tech, digital learning, or talent acquisition, I’d love to conn
 </a>
 
 ---
-##  🟩⬜🟥 About inRebus Technologies 🟩⬜🟥
+##  🟩⬜🟥 About inRebus Technologies (FOS Group) 🟩⬜🟥
 
 Founded in Turin in 2003, **inRebus Technologies** is a software house and IT consulting company.  
 Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise in digital and public administration fields.
