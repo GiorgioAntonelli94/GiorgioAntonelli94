@@ -82,10 +82,6 @@ Join the Team! Apply now on our website: [https://www.audensiel.com/jobs]
 
 >🔹 [EMBEDDED Developer (Genova)](https://it.indeed.com/job/embedded-developer-genova-b2d581c9d05af0f9)
 >
->🔹 [.NET/C# Developer (Genova)](https://it.indeed.com/job/netc-developer-genova-ad1a2e541a0d90e0)
->
->🔹 [Sviluppatore di test automatici-Genova](https://it.indeed.com/job/sviluppatore-di-test-automatici-genova-63895ebbea905dae))
->
 >🔹 [Senior Microsoft System Administrator- Piossasco](https://it.indeed.com/job/senior-microsoft-system-administrator-piossasco-1adcef4b84f1db5d)
 
 ---
