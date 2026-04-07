@@ -31,7 +31,7 @@ If you work in tech, digital learning, or talent acquisition, I’d love to conn
 
 ### 📫 Contacts
 
-📩 giorgio.antonelli@inrebus.it
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giorgio.antonelli@inrebus.it)
 
   <a href="https://www.linkedin.com/in/giorgio-antonelli-1b9152245/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
