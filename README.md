@@ -83,6 +83,10 @@ Join the Team! Apply now on our website: [https://www.audensiel.com/jobs]
 >🔹 [EMBEDDED Developer (Genova)](https://it.indeed.com/job/embedded-developer-genova-b2d581c9d05af0f9)
 >
 >🔹 [Senior Microsoft System Administrator- Piossasco](https://it.indeed.com/job/senior-microsoft-system-administrator-piossasco-1adcef4b84f1db5d)
+>
+>🔹 [Analista Programmatore Mainframe (CICS - COBOL) Freelance (Torino)](https://it.indeed.com/job/analista-programmatore-mainframe-cics-cobol-freelance-torino-fa038c173c7476b1)
+>
+>🔹 [Service Manager – Ambito IT Support (Genova)](https://it.indeed.com/job/service-manager-ambito-it-support-genova-f74a806d277f10a8)
 
 ---
 
