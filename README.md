@@ -65,15 +65,15 @@ Gruppo FOS is an innovative technology hub dedicated to Italian polytechnic exce
 
 [![Work with Us](https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://zinrec.intervieweb.it/gruppofos/it/career)
 
-Join the Team! Apply now on our website: [https://www.gruppofos.it/lavora-noi/]
+[![Join the Team](https://img.shields.io/badge/Join_the_Team!-Gruppo_FOS-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.gruppofos.it/lavora-noi/)
+
 
 
 ## 🌍🟦⬜🟥🌎 About Audensiel 🌎🟦⬜🟥🌍
 
 Audensiel is a global digital transformation partner specializing in high-tech and business consulting across sectors like Banking, Healthcare, and Industry. They deliver end-to-end Digital and Cloud/DevOps solutions using Agile methodologies, while leveraging Data, AI, and IoT to build complex interconnected systems. Their expertise extends to robust Cybersecurity auditing and strategic IT governance. They are currently hiring to support their rapid international growth.
 
-Join the Team! Apply now on our website: [https://www.audensiel.com/jobs]
-
+[![Join the Team](https://img.shields.io/badge/Join_the_Team!-Audensiel-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.audensiel.com/jobs)
 ---
 
 ## 💼 Open Positions
