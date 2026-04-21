@@ -32,15 +32,9 @@ If you work in tech, digital learning, or talent acquisition, I’d love to conn
 ### 📫 Contacts
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giorgio.antonelli@inrebus.it)
-
-  <a href="https://www.linkedin.com/in/giorgio-antonelli-1b9152245/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgio-antonelli-1b9152245/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3443428074)
-
-[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=flat&logo=telegram)](https://t.me/+393443428074?text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub)
----
+[![Telegram](https://img.shields.io/badge/Telegram-26A8EA?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+393443428074?text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub)
 
 ### 🔥 GitHub Streak
 
