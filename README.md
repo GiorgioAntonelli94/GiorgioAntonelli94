@@ -36,6 +36,14 @@ If you work in tech, digital learning, or talent acquisition, I’d love to conn
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3443428074)
 [![Telegram](https://img.shields.io/badge/Telegram-26A8EA?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+393443428074?text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub)
 
+
+### 👥 Team Members on GitHub
+
+| Avatar | Name | GitHub Profile |
+| :---: | :--- | :--- |
+| <img src="https://github.com/HibaBadra1004.png" width="40" style="border-radius:50%"> | **Hiba Badra** | [@HibaBadra1004](https://github.com/HibaBadra1004) |
+| <img src="https://github.com/Marwa-TalentAcquisition.png" width="40" style="border-radius:50%"> | **Marwa** | [@Marwa-TalentAcquisition](https://github.com/Marwa-TalentAcquisition) |
+
 ### 🔥 GitHub Streak
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
