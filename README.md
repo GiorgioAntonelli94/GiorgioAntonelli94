@@ -79,9 +79,7 @@ Audensiel is a global digital transformation partner specializing in high-tech a
 
 ## 💼 Open Positions
 
->🔹 [EMBEDDED Developer (Genova)](https://it.indeed.com/job/embedded-developer-genova-b2d581c9d05af0f9)
->
->🔹 [Senior Microsoft System Administrator- Piossasco](https://it.indeed.com/job/senior-microsoft-system-administrator-piossasco-1adcef4b84f1db5d)
+>🔹 [Full-stack developer .Net/C# - Angular (Torino)](https://zinrec.intervieweb.it/gruppofos/jobs/fullstack-developer-netc-angular-torino-122741/it/)
 >
 >🔹 [Analista Programmatore Mainframe (CICS - COBOL) Freelance (Torino)](https://it.indeed.com/job/analista-programmatore-mainframe-cics-cobol-freelance-torino-fa038c173c7476b1)
 >
