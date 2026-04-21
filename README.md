@@ -38,6 +38,8 @@ If you work in tech, digital learning, or talent acquisition, I’d love to conn
   </a>
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3443428074)
+
+[![Telegram](https://img.shields.io/badge/Telegram-Chat-blue?style=flat&logo=telegram)](https://t.me/+393443428074?text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub)
 ---
 
 ### 🔥 GitHub Streak
