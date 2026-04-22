@@ -87,13 +87,13 @@ Audensiel is a global digital transformation partner specializing in high-tech a
 [![Join the Team](https://img.shields.io/badge/Join_the_Team!-Audensiel-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.audensiel.com/jobs)
 ---
 
-## 💼 Open Positions
+## 💼 Open Positions Dashboard
 
->🔹 [Full-stack developer .Net/C# - Angular (Torino)](https://zinrec.intervieweb.it/gruppofos/jobs/fullstack-developer-netc-angular-torino-122741/it/)
->
->🔹 [Analista Programmatore Mainframe (CICS - COBOL) Freelance (Torino)](https://it.indeed.com/job/analista-programmatore-mainframe-cics-cobol-freelance-torino-fa038c173c7476b1)
->
->🔹 [Service Manager – Ambito IT Support (Genova)](https://it.indeed.com/job/service-manager-ambito-it-support-genova-f74a806d277f10a8)
+| Status | Role | Location | Action |
+| :--- | :--- | :--- | :--- |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full-stack Developer** <br> `.Net/C#` • `Angular` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/fullstack-developer-netc-angular-torino-122741/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Programmatore** <br> `Mainframe` • `CICS` • `COBOL` | 📍 Torino | [**Apply Now**](https://it.indeed.com/job/analista-programmatore-mainframe-cics-cobol-freelance-torino-fa038c173c7476b1) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Service Manager** <br> `IT Support` | 📍 Genova | [**Apply Now**](https://it.indeed.com/job/service-manager-ambito-it-support-genova-f74a806d277f10a8) |
 
 ---
 
