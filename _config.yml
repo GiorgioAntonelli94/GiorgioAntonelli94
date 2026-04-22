@@ -1,3 +1,4 @@
-remote_theme: pages-themes/architect@v0.2.0 # Esempio di un tema moderno
-title: Il mio Progetto
-description: Visualizzazione del README tramite GitHub Pages
+title: Giorgio Antonelli
+description: HR Recruiter @ inRebus Technologies
+theme: jekyll-theme-minimal
+logo: /logo-inrebus.png
