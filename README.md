@@ -39,6 +39,16 @@ If you work in tech, digital learning, or talent acquisition, I’d love to conn
 [![Telegram](https://img.shields.io/badge/Telegram-26A8EA?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+393443428074?text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub)
 
 
+
+## 💼 Open Positions Dashboard
+
+| Status | Role | Location | Action |
+| :--- | :--- | :--- | :--- |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full-stack Developer** <br> `.Net/C#` • `Angular` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/fullstack-developer-netc-angular-torino-122741/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Programmatore** <br> `Mainframe` • `CICS` • `COBOL` | 📍 Torino | [**Apply Now**](https://it.indeed.com/job/analista-programmatore-mainframe-cics-cobol-freelance-torino-fa038c173c7476b1) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Service Manager** <br> `IT Support` | 📍 Genova | [**Apply Now**](https://it.indeed.com/job/service-manager-ambito-it-support-genova-f74a806d277f10a8) |
+
+
 ### 👥 Team Members on GitHub
 
 | Avatar | Name | GitHub Profile | LinkedIn |
@@ -85,16 +95,6 @@ Gruppo FOS is an innovative technology hub dedicated to Italian polytechnic exce
 Audensiel is a global digital transformation partner specializing in high-tech and business consulting across sectors like Banking, Healthcare, and Industry. They deliver end-to-end Digital and Cloud/DevOps solutions using Agile methodologies, while leveraging Data, AI, and IoT to build complex interconnected systems. Their expertise extends to robust Cybersecurity auditing and strategic IT governance. They are currently hiring to support their rapid international growth.
 
 [![Join the Team](https://img.shields.io/badge/Join_the_Team!-Audensiel-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.audensiel.com/jobs)
----
-
-## 💼 Open Positions Dashboard
-
-| Status | Role | Location | Action |
-| :--- | :--- | :--- | :--- |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full-stack Developer** <br> `.Net/C#` • `Angular` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/fullstack-developer-netc-angular-torino-122741/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Programmatore** <br> `Mainframe` • `CICS` • `COBOL` | 📍 Torino | [**Apply Now**](https://it.indeed.com/job/analista-programmatore-mainframe-cics-cobol-freelance-torino-fa038c173c7476b1) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Service Manager** <br> `IT Support` | 📍 Genova | [**Apply Now**](https://it.indeed.com/job/service-manager-ambito-it-support-genova-f74a806d277f10a8) |
-
 ---
 
 
