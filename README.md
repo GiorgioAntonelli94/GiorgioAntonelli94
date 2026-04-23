@@ -47,7 +47,7 @@ If you work in tech, digital learning, or talent acquisition, I’d love to conn
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full-stack Developer** <br> `.Net/C#` • `Angular` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/fullstack-developer-netc-angular-torino-122741/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Programmatore** <br> `Mainframe` • `CICS` • `COBOL` | 📍 Torino | [**Apply Now**](https://it.indeed.com/job/analista-programmatore-mainframe-cics-cobol-freelance-torino-fa038c173c7476b1) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Service Manager** <br> `IT Support` | 📍 Genova | [**Apply Now**](https://it.indeed.com/job/service-manager-ambito-it-support-genova-f74a806d277f10a8) |
-
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **.Net/C# Developer** <br> `Backend` • `Software Engineering` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/netc-developer-genova-124236/it/) |
 
 ### 👥 Team Members on GitHub
 
