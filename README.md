@@ -78,6 +78,12 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 [![Job Board ](https://img.shields.io/badge/Career-Recruiting%20Area-00A859?style=for-the-badge&logo=careerbuilder&logoColor=white)](https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-/)
 
 [![Indeed](https://img.shields.io/badge/Indeed-Inrebus-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://it.indeed.com/cmp/Inrebus?campaignid=mobvjcmp&from=mobviewjob&tk=1jmo5d625hn21806&fromjk=ddcafb0519b5f80d&text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub)
+
+## Newsletter
+
+[![LinkedIn Newsletter](https://img.shields.io/badge/LinkedIn-Bacheca_Annunci_Inrebus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-/)
+
+[![LinkedIn Newsletter](https://img.shields.io/badge/LinkedIn-Futureading_Digital_Education-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/newsletters/futureading-digital-education-7335669848519102464/)
 ---
 
 ## 🟩⬜🟥 About FOS Group 🟩⬜🟥
