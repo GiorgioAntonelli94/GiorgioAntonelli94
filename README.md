@@ -22,11 +22,27 @@ Combining strategy and empathy, data and intuition, technology and culture.
 I manage every step of the recruitment process — from defining the hiring strategy to conducting interviews — with a personalized and human touch.  
 At the same time, I leverage social media as a powerful tool to attract, engage, and connect with the right people. Storytelling, employer branding, and community-building are key elements of my work.
 
+### 🧙‍♂️ Nerd at Heart & Lifelong Learner
 
-Avid reader 📖, Magic the Gathering player 🎴, and lifelong learner — I believe that curiosity is the true engine of innovation.  
-🧙‍♂️ Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and exploring tech communities on GitHub 🐙 where creativity and logic meet.
+Avid reader 📖, **Magic the Gathering player** 🎴, and lifelong learner — I believe that curiosity is the true engine of innovation.
+**Check out my decks on Moxfield:**
+<p align="left">
+  <a href="https://moxfield.com/users/Giorgio_Antonelli" target="_blank">
+    <img src="https://img.shields.io/badge/Moxfield-My%20Decks-202935?style=for-the-badge&logo=magic-the-gathering&logoColor=white" alt="Moxfield Profile" />
+  </a>
+</p>
 
-If you work in tech, digital learning, or talent acquisition, I’d love to connect and exchange ideas.  
+### 🏛️ Philosophy & Academic Roots
+
+With a background in **Philosophy**, I apply critical thinking and dialectical analysis to the professional world. I believe that technology is, first and foremost, a product of human ingenuity.
+
+<p align="left">
+  <a href="https://unito.academia.edu/GiorgioAntonelli" target="_blank">
+    <img src="https://img.shields.io/badge/Academia.edu-Papers%20%26%20Research-000000?style=for-the-badge&logo=academia&logoColor=white" alt="Academia.edu" />
+  </a>
+</p>
+
+Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and exploring tech communities on **GitHub** 🐙 where creativity and logic meet.
 
 
 [![Visita il mio sito](https://img.shields.io/badge/Visita_il_mio-Sito_Web_Ufficiale-2ea44f?style=for-the-badge)](https://giorgioantonelli94.github.io/)
