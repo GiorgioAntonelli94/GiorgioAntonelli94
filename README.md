@@ -10,6 +10,15 @@
 
 ---
 
+### 📫 Contacts
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giorgio.antonelli@inrebus.it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgio-antonelli-1b9152245/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3443428074)
+[![Telegram](https://img.shields.io/badge/Telegram-26A8EA?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+393443428074?text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub)
+
+
+
 🎯 **Hi there!**  
 
 I’m Giorgio, a Full Stack & Social Media Recruiter passionate about connecting people, technology, and ideas.
@@ -47,13 +56,6 @@ Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and explor
 
 [![Visita il mio sito](https://img.shields.io/badge/Visita_il_mio-Sito_Web_Ufficiale-2ea44f?style=for-the-badge)](https://giorgioantonelli94.github.io/)
 ---
-
-### 📫 Contacts
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giorgio.antonelli@inrebus.it)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgio-antonelli-1b9152245/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3443428074)
-[![Telegram](https://img.shields.io/badge/Telegram-26A8EA?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+393443428074?text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub)
 
 
 
