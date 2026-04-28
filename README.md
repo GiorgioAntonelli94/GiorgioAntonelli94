@@ -22,6 +22,7 @@ Combining strategy and empathy, data and intuition, technology and culture.
 I manage every step of the recruitment process — from defining the hiring strategy to conducting interviews — with a personalized and human touch.  
 At the same time, I leverage social media as a powerful tool to attract, engage, and connect with the right people. Storytelling, employer branding, and community-building are key elements of my work.
 
+
 Avid reader 📖, Magic the Gathering player 🎴, and lifelong learner — I believe that curiosity is the true engine of innovation.  
 🧙‍♂️ Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and exploring tech communities on GitHub 🐙 where creativity and logic meet.
 
@@ -58,9 +59,12 @@ If you work in tech, digital learning, or talent acquisition, I’d love to conn
 
 ### 🔥 GitHub Streak
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height="160" align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=GiorgioAntonelli94&theme=dark" alt="GitHub Streak" />
-</a>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=GiorgioAntonelli94&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GiorgioAntonelli94&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
 ---
 ##  🟩⬜🟥 About inRebus Technologies (FOS Group) 🟩⬜🟥
