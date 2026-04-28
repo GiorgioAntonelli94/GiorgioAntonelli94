@@ -57,15 +57,6 @@ If you work in tech, digital learning, or talent acquisition, I’d love to conn
 | <img src="https://github.com/HibaBadra1004.png" width="40" style="border-radius:50%"> | **Hiba Badra** | [@HibaBadra1004](https://github.com/HibaBadra1004) | [Profile](https://linkedin.com/in/hiba-badra-023480194/) |
 | <img src="https://github.com/Marwa-TalentAcquisition.png" width="40" style="border-radius:50%"> | **Marwa** | [@Marwa-TalentAcquisition](https://github.com/Marwa-TalentAcquisition) | [Profile](https://www.linkedin.com/in/marwa-kadri/) |
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=GiorgioAntonelli94&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GiorgioAntonelli94&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
 ---
 ##  🟩⬜🟥 About inRebus Technologies (FOS Group) 🟩⬜🟥
 
@@ -107,4 +98,12 @@ Audensiel is a global digital transformation partner specializing in high-tech a
 [![Join the Team](https://img.shields.io/badge/Join_the_Team!-Audensiel-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.audensiel.com/jobs)
 ---
 
+### 🔥 GitHub Streak
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=GiorgioAntonelli94&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GiorgioAntonelli94&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
