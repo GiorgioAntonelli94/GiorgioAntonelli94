@@ -102,6 +102,8 @@ Since 2020, we’ve been part of **FOS Group S.p.A.**, expanding our expertise i
 
 [![Indeed](https://img.shields.io/badge/Indeed-Inrebus-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://it.indeed.com/cmp/Inrebus?campaignid=mobvjcmp&from=mobviewjob&tk=1jmo5d625hn21806&fromjk=ddcafb0519b5f80d&text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub)
 
+[![Instagram](https://img.shields.io/badge/Instagram-InRebus_Technologies-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inrebustechnologies_gruppofos/)
+
 ## Newsletter
 
 [![LinkedIn Newsletter](https://img.shields.io/badge/LinkedIn-Bacheca_Annunci_Inrebus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/pulse/bacheca-annunci-inrebus-technologies-inrebus-s-r-l-/)
@@ -127,6 +129,8 @@ Gruppo FOS is an innovative technology hub dedicated to Italian polytechnic exce
 Audensiel is a global digital transformation partner specializing in high-tech and business consulting across sectors like Banking, Healthcare, and Industry. They deliver end-to-end Digital and Cloud/DevOps solutions using Agile methodologies, while leveraging Data, AI, and IoT to build complex interconnected systems. Their expertise extends to robust Cybersecurity auditing and strategic IT governance. They are currently hiring to support their rapid international growth.
 
 [![Join the Team](https://img.shields.io/badge/Join_the_Team!-Audensiel-FF0000?style=for-the-badge&logo=rocket&logoColor=white)](https://www.audensiel.com/jobs)
+
+[![Instagram](https://img.shields.io/badge/Instagram-Audensiel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/audensiel/)
 ---
 
 ### 🔥 GitHub Streak
