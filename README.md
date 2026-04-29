@@ -119,6 +119,8 @@ Gruppo FOS is an innovative technology hub dedicated to Italian polytechnic exce
 
 [![Indeed](https://img.shields.io/badge/Indeed-Gruppo_FOS-003A9B?style=for-the-badge&logo=indeed&logoColor=white)](https://it.indeed.com/cmp/Gruppo-Fos)
 
+[![Instagram](https://img.shields.io/badge/Instagram-Gruppo_FOS-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gruppofos/)
+
 
 ## 🌍🟦⬜🟥🌎 About Audensiel 🌎🟦⬜🟥🌍
 
