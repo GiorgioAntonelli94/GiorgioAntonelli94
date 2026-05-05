@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&repeat=true&color=FFA500&lines=Full+Stack+and+Social+Media+Recruiter;Talent+Acquisition+at+inRebus+Technologies;Part+of+the+FOS+Group" alt="Typing SVG" />
 </p>
 
----
 <h3 align="center">📫 Contacts</h3>
 
 <p align="center">
@@ -27,8 +26,10 @@
   <a href="https://t.me/+393443428074?text=Ciao%20Giorgio%20ti%20contatto%20da%20GitHub">
     <img src="https://img.shields.io/badge/Telegram-26A8EA?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+  <a href="https://slack.com/team/U09R8EHG24T">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
+  </a>
 </p>
-
 
 🎯 **Hi there!**  
 
