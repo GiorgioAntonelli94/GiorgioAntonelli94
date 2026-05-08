@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
   </a>
 </p>
+
 🎯 **Hi there!**  
 
 I’m Giorgio, a Full Stack & Social Media Recruiter passionate about connecting people, technology, and ideas.
