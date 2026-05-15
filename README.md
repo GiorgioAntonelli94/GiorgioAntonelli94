@@ -74,9 +74,6 @@ With a background in **Philosophy**, I apply critical thinking and dialectical a
 Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and exploring tech communities on **GitHub** 🐙 where creativity and logic meet.
 
 
-[![Visita il mio sito](https://img.shields.io/badge/Visita_il_mio-Sito_Web_Ufficiale-2ea44f?style=for-the-badge)](https://giorgioantonelli94.github.io/)
----
-
 
 
 | Status | Role | Location | Action |
