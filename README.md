@@ -39,6 +39,7 @@
   <br>
   <sub>Scansiona per visitare il mio sito</sub>
 </p>
+
 🎯 **Hi there!**  
 
 I’m Giorgio, a Full Stack & Social Media Recruiter passionate about connecting people, technology, and ideas.
