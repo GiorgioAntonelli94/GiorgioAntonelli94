@@ -82,10 +82,15 @@ Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and explor
 | Status | Role | Location | Action |
 | :--- | :--- | :--- | :--- |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **.Net/C# Developer** <br> `Backend` • `Software Engineering` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/netc-developer-genova-124236/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **DevOps Engineer** <br> `Azure` • `Infrastructure` • `Kubernetes` | 📍 Milano | [**Apply Now**](https://github.com/GiorgioAntonelli94/Open-Position/issues/106) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **SOC Analyst** <br> `Cybersecurity` • `Security Operations` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/soc-analyst-roma-135511/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Junior SOC Analyst** <br> `Cybersecurity` • `SIEM` • `Firewall` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/junior-soc-analyst-roma-137579/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Junior SOC Analyst** <br> `Cybersecurity` • `Security Operations` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/junior-soc-analyst-roma-137579/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Help Desk / Supporto PDL** <br> `IT Support` • `Workplace Services` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/help-desk-supporto-pdl-roma-135330/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Sistemista VMware** <br> `System IT` • `Infrastructure` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/sistemista-windows-sharepoint-roma-138776/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **System Engineer** <br> `Engineering` • `Infrastructure` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/senior-system-engineer-roma-138248/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Senior Network Security** <br> `Cybersecurity` • `Networking` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/senior-network-security-roma-138249/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Security Architect** <br> `Cybersecurity` • `Architecture` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/senior-security-architect-roma-138250/it/) |
+ 
+
+
 
 ### 👥 Team Members on GitHub
 
