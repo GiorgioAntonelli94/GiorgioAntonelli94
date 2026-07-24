@@ -75,7 +75,6 @@ With a background in **Philosophy**, I apply critical thinking and dialectical a
 Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and exploring tech communities on **GitHub** 🐙 where creativity and logic meet.
 
 
-
 ## 💼 Open Positions Dashboard
 
 | Status | Role | Location | Action |
@@ -85,7 +84,7 @@ Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and explor
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Senior Network Security** <br> `Cybersecurity` • `Networking` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/senior-network-security-roma-138249/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Security Architect** <br> `Cybersecurity` • `Architecture` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/senior-security-architect-roma-138250/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Full Stack Developer React & .NET** <br> `Development` • `React & .NET` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/full-stack-developer-react-net-genova-139564/it/) |
-| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Specialista Tecnico GIS** <br> `Engineering` • `GIS & Data` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/specialista-tecnico-gis-roma-141383/it/) |
+| ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **AI & Data Mining Specialist** <br> `AI & Data` • `Data Mining` | 📍 Roma | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/ai-data-mining-specialist-roma-142163/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Data Analytics Engineer** <br> `Data` • `Analytics` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/data-analytics-engineer-torino-141445/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Analista Funzionale** <br> `Analysis` • `Functional` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/analista-funzionale-genova-141595/it/) |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Front-End Developer React** <br> `Development` • `React` | 📍 Genova | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/frontend-developer-react-genova-141605/it/) |
