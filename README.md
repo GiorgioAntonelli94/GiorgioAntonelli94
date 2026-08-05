@@ -40,6 +40,13 @@
   <sub>Scansiona per visitare il mio sito</sub>
 </p>
 
+<p align="center">
+  <a href="https://hits.dwyl.com/GiorgioAntonelli94/GiorgioAntonelli94">
+    <img src="https://hits.dwyl.com/GiorgioAntonelli94/GiorgioAntonelli94.svg?style=flat-square&title=hits+dal+05/08/2026" alt="Hits" />
+  </a>
+</p>
+
+
 🎯 **Hi there!**  
 
 I’m Giorgio, a Full Stack & Social Media Recruiter passionate about connecting people, technology, and ideas.
@@ -142,8 +149,6 @@ Audensiel is a global digital transformation partner specializing in high-tech a
 ---
 
 ### 🔥 GitHub Streak
-
-[![HitCount](https://hits.dwyl.com/GiorgioAntonelli94/GiorgioAntonelli94.svg?view=today-total)](https://hits.dwyl.com/GiorgioAntonelli94/GiorgioAntonelli94)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
