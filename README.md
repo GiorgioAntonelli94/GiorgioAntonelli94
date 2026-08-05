@@ -143,6 +143,8 @@ Audensiel is a global digital transformation partner specializing in high-tech a
 
 ### 🔥 GitHub Streak
 
+[![HitCount](https://hits.dwyl.com/GiorgioAntonelli94/GiorgioAntonelli94.svg?view=today-total)](https://hits.dwyl.com/GiorgioAntonelli94/GiorgioAntonelli94)
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=GiorgioAntonelli94&theme=dark&hide_border=true" alt="GitHub Streak" />
