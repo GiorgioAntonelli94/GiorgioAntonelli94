@@ -148,14 +148,13 @@ Audensiel is a global digital transformation partner specializing in high-tech a
 [![Instagram](https://img.shields.io/badge/Instagram-Audensiel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/audensiel/)
 ---
 
-
 <h3 align="center">🔥 GitHub Streak & Stats</h3>
 
 <table align="center" border="0">
   <tr>
     <td align="center" valign="top">
       <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GiorgioAntonelli94&theme=dark&hide_border=true" alt="GitHub Streak" />
+        <img height="165" src="https://streak-stats.demolab.com/?user=GiorgioAntonelli94&theme=dark&hide_border=true" alt="GitHub Streak" />
       </a>
     </td>
     <td align="center" valign="top">
@@ -165,4 +164,6 @@ Audensiel is a global digital transformation partner specializing in high-tech a
     </td>
   </tr>
 </table>
+
+
 
