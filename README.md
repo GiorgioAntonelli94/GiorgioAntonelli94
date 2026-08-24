@@ -40,12 +40,6 @@
   <sub>Scansiona per visitare il mio sito</sub>
 </p>
 
-<p align="center">
-  <a href="https://hits.dwyl.com/GiorgioAntonelli94/GiorgioAntonelli94">
-    <img src="https://hits.dwyl.com/GiorgioAntonelli94/GiorgioAntonelli94.svg?style=flat-square&title=hits+dal+05/08/2026" alt="Hits" />
-  </a>
-</p>
-
 
 🎯 **Hi there!**  
 
