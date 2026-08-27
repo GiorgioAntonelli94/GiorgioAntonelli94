@@ -81,8 +81,6 @@ Proud nerd at heart: I love fantasy and sci-fi worlds, tabletop RPGs, and explor
 
 ## 💼 Open Positions Dashboard
 
-## 💼 Open Positions Dashboard
-
 | Status | Role | Location | Action |
 | :--- | :--- | :--- | :--- |
 | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square) | **Tecnico Junior Diagnostica Elettrica/Elettronica** <br> `IT & Software` • `Hardware & Support` | 📍 Torino | [**Apply Now**](https://zinrec.intervieweb.it/gruppofos/jobs/supporto-tecnico-junior-torino-139950/it/) |
