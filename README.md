@@ -29,6 +29,15 @@
 
 </div>
 
+<div align="center">
+  
+## 💼 Work with Us
+
+  <!-- ATS Career Portal Badge -->
+  <a href="https://zinrec.intervieweb.it/gruppofos/it/career" target="_blank">
+    <img src="https://img.shields.io/badge/ATS-Direct%20Career%20Portal-00A859?style=for-the-badge&logo=workplace&logoColor=white" alt="Direct ATS Career Portal" height="45" />
+  </a>
+</div>
 ---
 
 ## 🎯 About Me
@@ -74,15 +83,7 @@ At **inRebus Technologies** *(FOS Group)*, I support both companies and professi
 </p>
 
 ---
-<div align="center">
-  
-## 💼 Work with Us
 
-  <!-- ATS Career Portal Badge -->
-  <a href="https://zinrec.intervieweb.it/gruppofos/it/career" target="_blank">
-    <img src="https://img.shields.io/badge/ATS-Direct%20Career%20Portal-00A859?style=for-the-badge&logo=workplace&logoColor=white" alt="Direct ATS Career Portal" height="45" />
-  </a>
-</div>
 
 
 
